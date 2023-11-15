@@ -7,18 +7,20 @@
 
   1. [Guide to Competitive Programming_ Learning and Improving Algorithms Through Contests](https://github.com/FatoomRe/Computer_Science_Books/blob/d4e03db88e31bf0c59964266f4000b8e9f66d4a0/Guide%20to%20Competitive%20Programming_%20Learning%20and%20Improving%20Algorithms%20Through%20Contests.pdf)
 
+  2. [Clean Code](https://github.com/FatoomRe/Computer_Science_Books/blob/c4d29bdc2ac55582cdece60845064aaeec145430/Clean%20Code.pdf)
+
 
 ## 1. Web Development Books 🌐
 
-  0. ------
+ 0. [Html & CSS ](https://github.com/FatoomRe/Computer_Science_Books/blob/09533dc6640fd4189fb39771a23b7e08abcb2baf/WebDev%20Books/Html%20%26%20CSS.pdf)
 
-  1. ------
+  1. -----
 
-  2. ------
+  2. [JavaScript-The-Definitive-Guide-6th-Edition](https://github.com/FatoomRe/Computer_Science_Books/blob/09533dc6640fd4189fb39771a23b7e08abcb2baf/WebDev%20Books/JavaScript-The-Definitive-Guide-6th-Edition.pdf)
 
-  3. ------
+  3. [learning_php_mysql_and_javascript](https://github.com/FatoomRe/Computer_Science_Books/blob/09533dc6640fd4189fb39771a23b7e08abcb2baf/WebDev%20Books/learning_php_mysql_and_javascript_(2018).pdf)
 
-  4. ------
+  4. [secrets of the javascript ninja](https://github.com/FatoomRe/Computer_Science_Books/blob/09533dc6640fd4189fb39771a23b7e08abcb2baf/WebDev%20Books/secretsofthejavascriptninja.pdf)
 
 ## 2. Mobile Apps Development Books 📱
 
@@ -103,21 +105,30 @@
 
   3. [Learning robotics using Python](https://github.com/FatoomRe/Computer_Science_Books/blob/0810bd5c9073b5eea2ff697eefe4a457b646aa57/Robotics%20Books/Learning%20robotics%20using%20python.pdf)
 
-  4. -----
+  4. [Modern Robotics with OpenCV](https://github.com/FatoomRe/Computer_Science_Books/blob/6993c9e680423f9e00d30c3bdd4620f3cbf36384/Robotics%20Books/Modern%20Robotics%20with%20OpenCV.pdf)
+
+  5. [The Basics of Robotics](https://github.com/FatoomRe/Computer_Science_Books/blob/6993c9e680423f9e00d30c3bdd4620f3cbf36384/Robotics%20Books/Shakhatreh_Fareed.pdf)
+
+  6. [learn-robotics-with-raspberry-pi](https://github.com/FatoomRe/Computer_Science_Books/blob/6993c9e680423f9e00d30c3bdd4620f3cbf36384/Robotics%20Books/learn-robotics-with-raspberry-pi.pdf)
+
+  7. [A Guide To Robotics & Automation](https://github.com/FatoomRe/Computer_Science_Books/blob/6993c9e680423f9e00d30c3bdd4620f3cbf36384/Robotics%20Books/robotics-guide-en.pdf)
 
 
 
  ## 6. Arduino Books 📟
 
-   0. -----
+ 0. [30 Arduino Projects for the Evil Genius](https://github.com/FatoomRe/Computer_Science_Books/blob/6993c9e680423f9e00d30c3bdd4620f3cbf36384/Arduino%20Books/30%20Arduino%20Projects%20for%20the%20Evil%20Genius%20(Simon%20Monk)%20(z-lib.org).pdf)
 
-  1. -----
+ 1. [Arduino documentation](https://github.com/FatoomRe/Computer_Science_Books/blob/09533dc6640fd4189fb39771a23b7e08abcb2baf/Arduino%20Books/Arduino%20documentation(1).pdf)
 
-  2. -----
+ 2. [Arduino-tutorials](https://github.com/FatoomRe/Computer_Science_Books/blob/09533dc6640fd4189fb39771a23b7e08abcb2baf/Arduino%20Books/Arduino-tutorials-08092014.pdf)
 
-  3. -----
+ 3. [ArduinoProjects For Dummies](https://github.com/FatoomRe/Computer_Science_Books/blob/09533dc6640fd4189fb39771a23b7e08abcb2baf/Arduino%20Books/ArduinoProjects%20For%20Dummies%C2%AE.pdf)
 
-  4. -----
+ 4. [Arduino projects handbook](https://github.com/FatoomRe/Computer_Science_Books/blob/09533dc6640fd4189fb39771a23b7e08abcb2baf/Arduino%20Books/arduinoprojecthandbook.pdf)
+    
+
+ 
 
 
   
