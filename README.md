@@ -128,6 +128,12 @@
  4. [Arduino projects handbook](https://github.com/FatoomRe/Computer_Science_Books/blob/09533dc6640fd4189fb39771a23b7e08abcb2baf/Arduino%20Books/arduinoprojecthandbook.pdf)
     
 
+## 7. Data Science
+
+0. -------
+1. -------
+2. -------
+
  
 
 
