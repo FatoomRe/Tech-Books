@@ -167,7 +167,7 @@
 1. -------
 2. -------
 
-## 8. UI/UI Books 🎨 
+## 8. UI/UX Books 🎨 
 
 (will be added soon) 🔜
 
