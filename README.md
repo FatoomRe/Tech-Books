@@ -1,5 +1,6 @@
 # Computer Science Books 📚👩‍💻
 
+This repository will contain an updated list of technical books across various fields. Whether you're a developer, engineer, student, or simply someone passionate about technology, this repository is your go-to resource for expanding your knowledge.
 
 ## 0.Random Books
 
