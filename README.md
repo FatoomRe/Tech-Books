@@ -1,6 +1,5 @@
-# Computer Science Books 📚👩‍💻
+# <h1 align="center">This Repository will contain an updated list of Tech books across various fields 📚👩‍💻</h1>
 
-<h3>This repository will contain an updated list of technical books across various fields.</h3>
 
 [![MasterHead](https://cdn.thewire.in/wp-content/uploads/2023/04/10114037/Untitled-design.gif)](https://FatoomRe.io)
 
