@@ -27,25 +27,25 @@
 # Native Apps:
 🔷 IOS 
 
-  0. -----
-  1. -----
-  2. -----
-  3. -----
-  4. -----
-  5. -----
-  6. -----
-  7. -----
-  8. ------
-  9. ----
-  10. ----
-  11. ---
-  12. ---
-  13. ----
-  14. ----
-  15. ---
-  16. ---
-  17. ----
-  18. ---
+  0. [Beginning Swift Games Development for iOS](https://github.com/FatoomRe/Computer_Science_Books/blob/24016b02c176591bc365684d4ac5e7eae77bdb96/IOS%20Books/Beginning%20Swift%20Games%20Development%20for%20iOS.pdf)
+  1. [Beginning Swift Programming](https://github.com/FatoomRe/Computer_Science_Books/blob/24016b02c176591bc365684d4ac5e7eae77bdb96/IOS%20Books/Beginning%20Swift%20Programming.pdf)
+  2. [Beginning iPhone Development with Swift 3, 3rd Edition](https://github.com/FatoomRe/Computer_Science_Books/blob/24016b02c176591bc365684d4ac5e7eae77bdb96/IOS%20Books/Beginning%20iPhone%20Development%20with%20Swift%203%2C%203rd%20Edition.pdf)
+  3. [Beginning iPhone Development with Swift 3](https://github.com/FatoomRe/Computer_Science_Books/blob/24016b02c176591bc365684d4ac5e7eae77bdb96/IOS%20Books/Beginning%20iPhone%20Development%20with%20Swift%203.pdf)
+  4. [Beginning iPhone Development with Swift 4, 4th Edition](https://github.com/FatoomRe/Computer_Science_Books/blob/24016b02c176591bc365684d4ac5e7eae77bdb96/IOS%20Books/Beginning%20iPhone%20Development%20with%20Swift%204%2C%204th%20Edition.pdf)
+  5. [Build iOS Database Apps with Swift and SQLite](https://github.com/FatoomRe/Computer_Science_Books/blob/24016b02c176591bc365684d4ac5e7eae77bdb96/IOS%20Books/Build%20iOS%20Database%20Apps%20with%20Swift%20and%20SQLite.pdf)
+  6. [Learn Computer Science with Swift](https://github.com/FatoomRe/Computer_Science_Books/blob/24016b02c176591bc365684d4ac5e7eae77bdb96/IOS%20Books/Learn%20Computer%20Science%20with%20Swift.pdf)
+  7. [Mastering Swift 3](https://github.com/FatoomRe/Computer_Science_Books/blob/24016b02c176591bc365684d4ac5e7eae77bdb96/IOS%20Books/Mastering%20Swift%203%20-%20Linux.pdf)
+  8. [Programming iOS 10](https://github.com/FatoomRe/Computer_Science_Books/blob/24016b02c176591bc365684d4ac5e7eae77bdb96/IOS%20Books/Programming%20iOS%2010.pdf)
+  9. [Reactive Programming with Swift](https://github.com/FatoomRe/Computer_Science_Books/blob/24016b02c176591bc365684d4ac5e7eae77bdb96/IOS%20Books/Reactive%20Programming%20with%20Swift.pdf)
+  10. [Swift 2 by Example](https://github.com/FatoomRe/Computer_Science_Books/blob/24016b02c176591bc365684d4ac5e7eae77bdb96/IOS%20Books/Swift%202%20by%20Example.pdf)
+  11. [Swift 3 for Absolute Beginners, 3rd Edition](https://github.com/FatoomRe/Computer_Science_Books/blob/24016b02c176591bc365684d4ac5e7eae77bdb96/IOS%20Books/Swift%203%20for%20Absolute%20Beginners%2C%203rd%20Edition.pdf)
+  12. [Swift in 24 Hours, Sams Teach Yourself, 2nd Edition](https://github.com/FatoomRe/Computer_Science_Books/blob/24016b02c176591bc365684d4ac5e7eae77bdb96/IOS%20Books/Swift%20in%2024%20Hours%2C%20Sams%20Teach%20Yourself%2C%202nd%20Edition.pdf)
+  13. [iOS 10 Programming Fundamentals with Swift](https://github.com/FatoomRe/Computer_Science_Books/blob/24016b02c176591bc365684d4ac5e7eae77bdb96/IOS%20Books/iOS%2010%20Programming%20Fundamentals%20with%20Swift.pdf)
+  14. [iOS 10 Swift Programming Cookbook](https://github.com/FatoomRe/Computer_Science_Books/blob/24016b02c176591bc365684d4ac5e7eae77bdb96/IOS%20Books/iOS%2010%20Swift%20Programming%20Cookbook.pdf)
+  15. [iOS 11 Swift Programming Cookbook](https://github.com/FatoomRe/Computer_Science_Books/blob/24016b02c176591bc365684d4ac5e7eae77bdb96/IOS%20Books/iOS%2011%20Swift%20Programming%20Cookbook.pdf)
+  16. [iOS Code Testing](https://github.com/FatoomRe/Computer_Science_Books/blob/24016b02c176591bc365684d4ac5e7eae77bdb96/IOS%20Books/iOS%20Code%20Testing.pdf)
+  17. [macOS Programming for Absolute Beginners](https://github.com/FatoomRe/Computer_Science_Books/blob/24016b02c176591bc365684d4ac5e7eae77bdb96/IOS%20Books/macOS%20Programming%20for%20Absolute%20Beginners.pdf)
+
 
 🔷 Android 
 
