@@ -51,11 +51,17 @@
 
 ◻️ With Java
 
-  0. -----
+  0. [Android App Development in Android Studio - Java plus Android edition for beginners](https://github.com/FatoomRe/Computer_Science_Books/blob/5f9d5c66ba2a1919af9a840b73a598e2176a1a57/ANDROID%20Books/Android%20App%20Development%20in%20Android%20Studio%20-%20Java%20plus%20Android%20edition%20for%20beginners.pdf)
 
-  1. -----
+  1. [Android Studio 3.0 Development Essentials - Android 8 Edition](https://github.com/FatoomRe/Computer_Science_Books/blob/3e7ee4273ff2448ffe9e5e2858ffd3d5e72aab76/ANDROID%20Books/Android%20Studio%203.0%20Development%20Essentials%20%20-%20Android%208%20Edition%20(%20PDFDrive%20).pdf)
 
-  2. -----
+  2. [Android Application Develiopment](https://github.com/FatoomRe/Computer_Science_Books/blob/3e7ee4273ff2448ffe9e5e2858ffd3d5e72aab76/ANDROID%20Books/Android%20bk.pdf)
+
+  3. [Beginning Android Programming with Android Studio](https://github.com/FatoomRe/Computer_Science_Books/blob/3e7ee4273ff2448ffe9e5e2858ffd3d5e72aab76/ANDROID%20Books/Beginning%20Android%20Programming%20with%20Android%20Studio%20%5BEnglishOnlineClub.com%5D.pdf)
+
+  4. [Learning Java by Building Android Games (John Horton)](https://github.com/FatoomRe/Computer_Science_Books/blob/3e7ee4273ff2448ffe9e5e2858ffd3d5e72aab76/ANDROID%20Books/Learning%20Java%20by%20Building%20Android%20Games%20(John%20Horton)%20(z-lib.org).pdf)
+
+  5. [android-application-development-for-for-dummies](https://github.com/FatoomRe/Computer_Science_Books/blob/3e7ee4273ff2448ffe9e5e2858ffd3d5e72aab76/ANDROID%20Books/android-application-development-for-for-dummies.pdf)
 
 ◻️ With Kotlin
 
