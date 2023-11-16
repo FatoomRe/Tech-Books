@@ -76,11 +76,19 @@
 # Cross-Platforms Apps:
 🔷 Flutter 
 
-  0. -----
+  0. [eginning Flutter A Hands-on guide to app](https://github.com/FatoomRe/Computer_Science_Books/blob/60c95b2f2bb90294424e7afe80d5b9b01e06dc2b/Flutter%20Books/Beginning%20Flutter%20A%20Hands%20on%20guide%20to%20app%20dev.pdf)
 
-  1. -----
+  1. [Beginning Flutter](https://github.com/FatoomRe/Computer_Science_Books/blob/60c95b2f2bb90294424e7afe80d5b9b01e06dc2b/Flutter%20Books/Beginning%20Flutter.pdf)
 
-  2. -----
+  2. [Flutter Complete Refernce](https://github.com/FatoomRe/Computer_Science_Books/blob/60c95b2f2bb90294424e7afe80d5b9b01e06dc2b/Flutter%20Books/Flutter%20Complete%20Refernce.pdf)
+
+  3. [Flutter Succinctly](https://github.com/FatoomRe/Computer_Science_Books/blob/60c95b2f2bb90294424e7afe80d5b9b01e06dc2b/Flutter%20Books/Flutter%20Succinctly.pdf)
+
+  4. [Flutter for beginners](https://github.com/FatoomRe/Computer_Science_Books/blob/60c95b2f2bb90294424e7afe80d5b9b01e06dc2b/Flutter%20Books/Flutter%20for%20beginners.pdf)
+
+  5. [Flutter in Action](https://github.com/FatoomRe/Computer_Science_Books/blob/60c95b2f2bb90294424e7afe80d5b9b01e06dc2b/Flutter%20Books/Flutter%20in%20Action.pdf)
+
+  6. [Practical-Flutter](https://github.com/FatoomRe/Computer_Science_Books/blob/60c95b2f2bb90294424e7afe80d5b9b01e06dc2b/Flutter%20Books/Practical-Flutter-www.android-learn.ir.pdf)
 
 🔷 React Native 
 
@@ -103,12 +111,6 @@
 
   1. [Linux Basics for Hackers](https://github.com/FatoomRe/Computer_Science_Books/blob/0810bd5c9073b5eea2ff697eefe4a457b646aa57/Cybersecurity%20Books/Linux%20Basics%20for%20Hackers%20Getting%20Started%20with%20Networking%2C%20Scripting%2C%20and%20Security%20in%20Kali%20(OccupyTheWeb)%20(z-lib.org).pdf)
 
-  2. -----
-
-  3. -----
-
-  4. -----
-
 
 
 ## 4. Artificial Intelligence Books 🧠
@@ -119,10 +121,6 @@
   1. [Artificial Intelligence & Machine Learning](https://github.com/FatoomRe/Computer_Science_Books/blob/0810bd5c9073b5eea2ff697eefe4a457b646aa57/AI%20Books/Artificial-Intelligence-and-Machine-Learning-ar-v1.0.0.pdf)
 
   2. [Practical Artificial Intelligence Programming with Java](https://github.com/FatoomRe/Computer_Science_Books/blob/0810bd5c9073b5eea2ff697eefe4a457b646aa57/AI%20Books/Practical%20Artificial%20Intelligence%20With%20Java.pdf)
-
-  3. -----
-
-  4. -----
 
 
 
