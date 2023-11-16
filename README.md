@@ -14,7 +14,7 @@
 
  0. [Html & CSS ](https://github.com/FatoomRe/Computer_Science_Books/blob/09533dc6640fd4189fb39771a23b7e08abcb2baf/WebDev%20Books/Html%20%26%20CSS.pdf)
 
-  1. -----
+  1. [JavaScript and JQuery - Interactive Front-End Web Development](https://github.com/FatoomRe/Computer_Science_Books/blob/1efb3d88a496fd75fa06eea842c94d988ed76c90/WebDev%20Books/JavaScript%20and%20JQuery%20-%20Interactive%20Front-End%20Web%20Development.1118531647.pdf)
 
   2. [JavaScript-The-Definitive-Guide-6th-Edition](https://github.com/FatoomRe/Computer_Science_Books/blob/09533dc6640fd4189fb39771a23b7e08abcb2baf/WebDev%20Books/JavaScript-The-Definitive-Guide-6th-Edition.pdf)
 
