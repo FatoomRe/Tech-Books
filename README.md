@@ -195,31 +195,31 @@
 
 2. [From the Internet of Things to Smart Cities](https://github.com/FatoomRe/Tech-Books/blob/9812ce4b201b7fb10ea95d9513c29ebf23e74345/IoT%20Books/From%20Internet%20of%20Things%20to%20Smart%20Cities.pdf)
 
-3. []()
+3. [Industry 4.0 The Industrial Internet of Things](https://github.com/FatoomRe/Tech-Books/blob/7798bf7855eb49815971345c235cdccff51ba64c/IoT%20Books/Industry%204.0%20The%20Industrial%20Internet%20of%20Things.pdf)
 
-4. []()
+4. [Internet of Things For Architects](https://github.com/FatoomRe/Tech-Books/blob/7798bf7855eb49815971345c235cdccff51ba64c/IoT%20Books/Internet%20of%20Things%20For%20Architects.pdf)
 
-5. []()
+5. [Internet of Things From Hype to Reality](https://github.com/FatoomRe/Tech-Books/blob/7798bf7855eb49815971345c235cdccff51ba64c/IoT%20Books/Internet%20of%20Things%20From%20Hype%20to%20Reality.pdf)
 
-6. []()
+6. [Internet of Things Principles & Paradigms](https://github.com/FatoomRe/Tech-Books/blob/7798bf7855eb49815971345c235cdccff51ba64c/IoT%20Books/Internet%20of%20Things%20Principles%20%26%20Paradigms.pdf)
 
-7. []()
+7. [Intrernet of Things in 5 Days](https://github.com/FatoomRe/Tech-Books/blob/7798bf7855eb49815971345c235cdccff51ba64c/IoT%20Books/Intrernet%20of%20Things%20in%205%20Days.pdf)
 
-8. []()
+8. [IoT Fundamentals](https://github.com/FatoomRe/Tech-Books/blob/7798bf7855eb49815971345c235cdccff51ba64c/IoT%20Books/IoT%20Fundamentals.pdf)
 
-9. []()
+9. [Learning Internet of Things](https://github.com/FatoomRe/Tech-Books/blob/7798bf7855eb49815971345c235cdccff51ba64c/IoT%20Books/Learning%20Internet%20og%20Things.pdf)
 
-10. []()
+10. [Mastering Internet of Things](https://github.com/FatoomRe/Tech-Books/blob/7798bf7855eb49815971345c235cdccff51ba64c/IoT%20Books/Mastering%20Internet%20of%20Things.pdf)
 
-11. []()
+11. [MicroPython for the Internet of Things](https://github.com/FatoomRe/Tech-Books/blob/7798bf7855eb49815971345c235cdccff51ba64c/IoT%20Books/MicroPython%20for%20the%20Internet%20of%20Things.pdf)
 
-12. []()
+12. [Smarter Decisions - The Intersection of Internet of Things & Decision Science](https://github.com/FatoomRe/Tech-Books/blob/7798bf7855eb49815971345c235cdccff51ba64c/IoT%20Books/Smarter%20Decisions%20-%20The%20Intersection%20of%20Internet%20of%20Things%20%26%20Decision%20Science.pdf)
 
-13. []()
+13. [The Internet of Things Industrie 4.0 Unleashed](https://github.com/FatoomRe/Tech-Books/blob/7798bf7855eb49815971345c235cdccff51ba64c/IoT%20Books/The%20Internet%20of%20Things%20Industrie%204.0%20Unleashed.pdf)
 
-14. []()
+14. [The Internet of Things; Do it Yourself Projects with Arduino & Raspberry Pi](https://github.com/FatoomRe/Tech-Books/blob/7798bf7855eb49815971345c235cdccff51ba64c/IoT%20Books/The%20Internet%20of%20Things%3B%20Do%20it%20Yourself%20Projects%20with%20Arduino%20%26%20Raspberry%20Pi.pdf)
 
-15. []() 
+15. [Value Creation and the Internet of Things](https://github.com/FatoomRe/Tech-Books/blob/7798bf7855eb49815971345c235cdccff51ba64c/IoT%20Books/Value%20Creation%20and%20the%20Internet%20of%20Things.pdf) 
 
 ## 9. Data Science Books 🗃️ 
 
