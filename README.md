@@ -159,7 +159,7 @@
  4. [Arduino projects handbook](https://github.com/FatoomRe/Computer_Science_Books/blob/09533dc6640fd4189fb39771a23b7e08abcb2baf/Arduino%20Books/arduinoprojecthandbook.pdf)
     
 
-## 7. Data Science Books 🗃️ 
+## 7. Drones  Books 🚁
 
 (will be added soon) 🔜
 
@@ -167,7 +167,15 @@
 1. -------
 2. -------
 
-## 8. UI/UX Books 🎨 
+## 8. Data Science Books 🗃️ 
+
+(will be added soon) 🔜
+
+0. -------
+1. -------
+2. -------
+
+## 9. UI/UX Books 🎨 
 
 (will be added soon) 🔜
 
