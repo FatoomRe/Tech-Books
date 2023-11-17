@@ -161,11 +161,14 @@
 
 ## 7. Drones  Books 🚁
 
-(will be added soon) 🔜
 
-0. -------
-1. -------
-2. -------
+0. [Building Smart Drones with ESP8266 and Arduino](https://github.com/FatoomRe/Tech-Books/blob/7e329273c8ca52b846aa236638ea8da4bdb7bd5b/Drones%20Books/Building%20Smart%20Drones%20with%20ESP8266%20and%20Arduino%20Build%20exciting%20drones%20by%20leveraging%20the%20capabilities%20of%20Arduino%20and%20ESP8266.pdf)
+
+1. [DIY Drones for the Evil Genius Design, Build, and Customize Your Own Drones](https://github.com/FatoomRe/Tech-Books/blob/7e329273c8ca52b846aa236638ea8da4bdb7bd5b/Drones%20Books/DIY%20Drones%20for%20the%20Evil%20Genius%20Design%2C%20Build%2C%20and%20Customize%20Your%20Own%20Drones.pdf)
+
+2. [Make Drones](https://github.com/FatoomRe/Tech-Books/blob/7e329273c8ca52b846aa236638ea8da4bdb7bd5b/Drones%20Books/Make%20Drones.pdf)
+
+3. [Make_ Getting Started with Drones_ Build and Customize Your Own](https://github.com/FatoomRe/Tech-Books/blob/7e329273c8ca52b846aa236638ea8da4bdb7bd5b/Drones%20Books/Make_%20Getting%20Started%20with%20Drones_%20Build%20and%20Customize%20Your%20Own%20Quadcopter.pdf)
 
 ## 8. Data Science Books 🗃️ 
 
