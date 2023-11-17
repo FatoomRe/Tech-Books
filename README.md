@@ -27,31 +27,48 @@
 ## 2. Mobile Apps Development Books 📱
 
 # Native Apps:
-🔷 IOS 
+<h3>🔷 IOS</h3> 
 
   0. [Beginning Swift Games Development for iOS](https://github.com/FatoomRe/Computer_Science_Books/blob/24016b02c176591bc365684d4ac5e7eae77bdb96/IOS%20Books/Beginning%20Swift%20Games%20Development%20for%20iOS.pdf)
+  
   1. [Beginning Swift Programming](https://github.com/FatoomRe/Computer_Science_Books/blob/24016b02c176591bc365684d4ac5e7eae77bdb96/IOS%20Books/Beginning%20Swift%20Programming.pdf)
+  
   2. [Beginning iPhone Development with Swift 3, 3rd Edition](https://github.com/FatoomRe/Computer_Science_Books/blob/24016b02c176591bc365684d4ac5e7eae77bdb96/IOS%20Books/Beginning%20iPhone%20Development%20with%20Swift%203%2C%203rd%20Edition.pdf)
+  
   3. [Beginning iPhone Development with Swift 3](https://github.com/FatoomRe/Computer_Science_Books/blob/24016b02c176591bc365684d4ac5e7eae77bdb96/IOS%20Books/Beginning%20iPhone%20Development%20with%20Swift%203.pdf)
+  
   4. [Beginning iPhone Development with Swift 4, 4th Edition](https://github.com/FatoomRe/Computer_Science_Books/blob/24016b02c176591bc365684d4ac5e7eae77bdb96/IOS%20Books/Beginning%20iPhone%20Development%20with%20Swift%204%2C%204th%20Edition.pdf)
+  
   5. [Build iOS Database Apps with Swift and SQLite](https://github.com/FatoomRe/Computer_Science_Books/blob/24016b02c176591bc365684d4ac5e7eae77bdb96/IOS%20Books/Build%20iOS%20Database%20Apps%20with%20Swift%20and%20SQLite.pdf)
+  
   6. [Learn Computer Science with Swift](https://github.com/FatoomRe/Computer_Science_Books/blob/24016b02c176591bc365684d4ac5e7eae77bdb96/IOS%20Books/Learn%20Computer%20Science%20with%20Swift.pdf)
+  
   7. [Mastering Swift 3](https://github.com/FatoomRe/Computer_Science_Books/blob/24016b02c176591bc365684d4ac5e7eae77bdb96/IOS%20Books/Mastering%20Swift%203%20-%20Linux.pdf)
+  
   8. [Programming iOS 10](https://github.com/FatoomRe/Computer_Science_Books/blob/24016b02c176591bc365684d4ac5e7eae77bdb96/IOS%20Books/Programming%20iOS%2010.pdf)
+  
   9. [Reactive Programming with Swift](https://github.com/FatoomRe/Computer_Science_Books/blob/24016b02c176591bc365684d4ac5e7eae77bdb96/IOS%20Books/Reactive%20Programming%20with%20Swift.pdf)
+  
   10. [Swift 2 by Example](https://github.com/FatoomRe/Computer_Science_Books/blob/24016b02c176591bc365684d4ac5e7eae77bdb96/IOS%20Books/Swift%202%20by%20Example.pdf)
+  
   11. [Swift 3 for Absolute Beginners, 3rd Edition](https://github.com/FatoomRe/Computer_Science_Books/blob/24016b02c176591bc365684d4ac5e7eae77bdb96/IOS%20Books/Swift%203%20for%20Absolute%20Beginners%2C%203rd%20Edition.pdf)
+  
   12. [Swift in 24 Hours, Sams Teach Yourself, 2nd Edition](https://github.com/FatoomRe/Computer_Science_Books/blob/24016b02c176591bc365684d4ac5e7eae77bdb96/IOS%20Books/Swift%20in%2024%20Hours%2C%20Sams%20Teach%20Yourself%2C%202nd%20Edition.pdf)
+  
   13. [iOS 10 Programming Fundamentals with Swift](https://github.com/FatoomRe/Computer_Science_Books/blob/24016b02c176591bc365684d4ac5e7eae77bdb96/IOS%20Books/iOS%2010%20Programming%20Fundamentals%20with%20Swift.pdf)
+  
   14. [iOS 10 Swift Programming Cookbook](https://github.com/FatoomRe/Computer_Science_Books/blob/24016b02c176591bc365684d4ac5e7eae77bdb96/IOS%20Books/iOS%2010%20Swift%20Programming%20Cookbook.pdf)
+  
   15. [iOS 11 Swift Programming Cookbook](https://github.com/FatoomRe/Computer_Science_Books/blob/24016b02c176591bc365684d4ac5e7eae77bdb96/IOS%20Books/iOS%2011%20Swift%20Programming%20Cookbook.pdf)
+  
   16. [iOS Code Testing](https://github.com/FatoomRe/Computer_Science_Books/blob/24016b02c176591bc365684d4ac5e7eae77bdb96/IOS%20Books/iOS%20Code%20Testing.pdf)
+  
   17. [macOS Programming for Absolute Beginners](https://github.com/FatoomRe/Computer_Science_Books/blob/24016b02c176591bc365684d4ac5e7eae77bdb96/IOS%20Books/macOS%20Programming%20for%20Absolute%20Beginners.pdf)
 
 
-🔷 Android 
+<h3>🔷 Android </h3>
 
-◻️ With Java
+<h4>◻️ With Java: </h4>
 
   0. [Android App Development in Android Studio - Java plus Android edition for beginners](https://github.com/FatoomRe/Computer_Science_Books/blob/5f9d5c66ba2a1919af9a840b73a598e2176a1a57/ANDROID%20Books/Android%20App%20Development%20in%20Android%20Studio%20-%20Java%20plus%20Android%20edition%20for%20beginners.pdf)
 
@@ -65,7 +82,7 @@
 
   5. [android-application-development-for-for-dummies](https://github.com/FatoomRe/Computer_Science_Books/blob/3e7ee4273ff2448ffe9e5e2858ffd3d5e72aab76/ANDROID%20Books/android-application-development-for-for-dummies.pdf)
 
-◻️ With Kotlin
+<h4>◻️ With Kotlin: </h4>
 
 (will be added soon) 🔜
 
@@ -76,7 +93,7 @@
   2. -----
 
 # Cross-Platforms Apps:
-🔷 Flutter 
+<h3>🔷 Flutter </h3>
 
   0. [beginning to Flutter A Hands-on guide to app](https://github.com/FatoomRe/Computer_Science_Books/blob/60c95b2f2bb90294424e7afe80d5b9b01e06dc2b/Flutter%20Books/Beginning%20Flutter%20A%20Hands%20on%20guide%20to%20app%20dev.pdf)
 
@@ -92,7 +109,7 @@
 
   6. [Practical-Flutter](https://github.com/FatoomRe/Computer_Science_Books/blob/60c95b2f2bb90294424e7afe80d5b9b01e06dc2b/Flutter%20Books/Practical-Flutter-www.android-learn.ir.pdf)
 
-🔷 React Native 
+<h3>🔷 React Native </h3>
 
 (will be added soon) 🔜
 
@@ -102,7 +119,7 @@
 
   2. -----
 
-🔷 Xamarin 
+<h3>🔷 Xamarin </h3>
 
   0. [Creating Mobile Apps with Xamarin Forms](https://github.com/FatoomRe/Computer_Science_Books/blob/26dac1f4e1045ad89259198ecee4136d6b318476/Microsoft_Press_eBook_CreatingMobileAppswithXamarinForms_PDF.pdf)
 
@@ -170,7 +187,27 @@
 
 3. [Make_ Getting Started with Drones_ Build and Customize Your Own](https://github.com/FatoomRe/Tech-Books/blob/7e329273c8ca52b846aa236638ea8da4bdb7bd5b/Drones%20Books/Make_%20Getting%20Started%20with%20Drones_%20Build%20and%20Customize%20Your%20Own%20Quadcopter.pdf)
 
-## 8. Data Science Books 🗃️ 
+## 8. Internet of Things Books 🛰️ 
+
+(will be added soon) 🔜
+
+0. []()
+
+1. []()
+
+2. []()
+
+3. []()
+
+4. []()
+
+5. []()
+
+6. []()
+
+7. []() 
+
+## 9. Data Science Books 🗃️ 
 
 (will be added soon) 🔜
 
@@ -178,7 +215,7 @@
 1. -------
 2. -------
 
-## 9. UI/UX Books 🎨 
+## 10. UI/UX Books 🎨 
 
 (will be added soon) 🔜
 
