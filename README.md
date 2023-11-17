@@ -189,13 +189,11 @@
 
 ## 8. Internet of Things Books 🛰️ 
 
-(will be added soon) 🔜
+0. [Architecting the Internet of Things](https://github.com/FatoomRe/Tech-Books/blob/9812ce4b201b7fb10ea95d9513c29ebf23e74345/IoT%20Books/Architecting%20the%20Internet%20of%20Things.pdf)
 
-0. []()
+1. [Designing the Internet of Things](https://github.com/FatoomRe/Tech-Books/blob/9812ce4b201b7fb10ea95d9513c29ebf23e74345/IoT%20Books/Designing%20the%20Internet%20of%20Things.pdf)
 
-1. []()
-
-2. []()
+2. [From the Internet of Things to Smart Cities](https://github.com/FatoomRe/Tech-Books/blob/9812ce4b201b7fb10ea95d9513c29ebf23e74345/IoT%20Books/From%20Internet%20of%20Things%20to%20Smart%20Cities.pdf)
 
 3. []()
 
@@ -205,7 +203,23 @@
 
 6. []()
 
-7. []() 
+7. []()
+
+8. []()
+
+9. []()
+
+10. []()
+
+11. []()
+
+12. []()
+
+13. []()
+
+14. []()
+
+15. []() 
 
 ## 9. Data Science Books 🗃️ 
 
