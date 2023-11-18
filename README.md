@@ -26,8 +26,8 @@
 
 ## 2. Mobile Apps Development Books 📱
 
-# Native Apps:
-<h3>🔷 IOS</h3> 
+<h3>Native Apps: </h3>
+<h4>🔷 IOS</h4> 
 
   0. [Beginning Swift Games Development for iOS](https://github.com/FatoomRe/Computer_Science_Books/blob/24016b02c176591bc365684d4ac5e7eae77bdb96/IOS%20Books/Beginning%20Swift%20Games%20Development%20for%20iOS.pdf)
   
@@ -66,9 +66,9 @@
   17. [macOS Programming for Absolute Beginners](https://github.com/FatoomRe/Computer_Science_Books/blob/24016b02c176591bc365684d4ac5e7eae77bdb96/IOS%20Books/macOS%20Programming%20for%20Absolute%20Beginners.pdf)
 
 
-<h3>🔷 Android </h3>
+<h4>🔷 Android </h4>
 
-<h4>◻️ With Java: </h4>
+<h5>◻️ With Java: </h5>
 
   0. [Android App Development in Android Studio - Java plus Android edition for beginners](https://github.com/FatoomRe/Computer_Science_Books/blob/5f9d5c66ba2a1919af9a840b73a598e2176a1a57/ANDROID%20Books/Android%20App%20Development%20in%20Android%20Studio%20-%20Java%20plus%20Android%20edition%20for%20beginners.pdf)
 
@@ -82,7 +82,7 @@
 
   5. [android-application-development-for-for-dummies](https://github.com/FatoomRe/Computer_Science_Books/blob/3e7ee4273ff2448ffe9e5e2858ffd3d5e72aab76/ANDROID%20Books/android-application-development-for-for-dummies.pdf)
 
-<h4>◻️ With Kotlin: </h4>
+<h5>◻️ With Kotlin: </h5>
 
 (will be added soon) 🔜
 
@@ -92,8 +92,8 @@
 
   2. -----
 
-# Cross-Platforms Apps:
-<h3>🔷 Flutter </h3>
+<h3>Cross-Platforms Apps: </h3>
+<h4>🔷 Flutter </h4>
 
   0. [beginning to Flutter A Hands-on guide to app](https://github.com/FatoomRe/Computer_Science_Books/blob/60c95b2f2bb90294424e7afe80d5b9b01e06dc2b/Flutter%20Books/Beginning%20Flutter%20A%20Hands%20on%20guide%20to%20app%20dev.pdf)
 
@@ -109,7 +109,7 @@
 
   6. [Practical-Flutter](https://github.com/FatoomRe/Computer_Science_Books/blob/60c95b2f2bb90294424e7afe80d5b9b01e06dc2b/Flutter%20Books/Practical-Flutter-www.android-learn.ir.pdf)
 
-<h3>🔷 React Native </h3>
+<h4>🔷 React Native </h4>
 
 (will be added soon) 🔜
 
@@ -119,7 +119,7 @@
 
   2. -----
 
-<h3>🔷 Xamarin </h3>
+<h4>🔷 Xamarin </h4>
 
   0. [Creating Mobile Apps with Xamarin Forms](https://github.com/FatoomRe/Computer_Science_Books/blob/26dac1f4e1045ad89259198ecee4136d6b318476/Microsoft_Press_eBook_CreatingMobileAppswithXamarinForms_PDF.pdf)
 
