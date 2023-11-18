@@ -265,33 +265,33 @@
 
 20. [Oracle Database 11gR2 Performance Tuning Cookbook](https://github.com/FatoomRe/Tech-Books/blob/b45200a30414c5830c3358c10eaf0ff362c20422/DataSci%20Books/Oracle%20Database%2011gR2%20Performance%20Tuning%20Cookbook.pdf)
 
-21. []()
+21. [Oracle PL-SQL Programming](https://github.com/FatoomRe/Tech-Books/blob/b45200a30414c5830c3358c10eaf0ff362c20422/DataSci%20Books/Oracle%20PL-SQL%20Programming.pdf)
 
-22. []()
+22. [PostgreSQL Server Programming](https://github.com/FatoomRe/Tech-Books/blob/da4041448f3dbfc41146c9e86bcfcc04c19b1f94/DataSci%20Books/PostgreSQL%20Server%20Programming.pdf)
 
-23. []()
+23. [PostgreSQL Up and Running](https://github.com/FatoomRe/Tech-Books/blob/da4041448f3dbfc41146c9e86bcfcc04c19b1f94/DataSci%20Books/PostgreSQL%20Up%20and%20Running.pdf)
 
-24. []()
+24. [Pro SQL Server Internals](https://github.com/FatoomRe/Tech-Books/blob/da4041448f3dbfc41146c9e86bcfcc04c19b1f94/DataSci%20Books/Pro%20SQL%20Server%20Internals.pdf)
 
-25. []()
+25. [Python for Data Analysis](https://github.com/FatoomRe/Tech-Books/blob/da4041448f3dbfc41146c9e86bcfcc04c19b1f94/DataSci%20Books/Python%20for%20Data%20Analysis.pdf)
 
-26. []()
+26. [SQL A Beginner's Guide](https://github.com/FatoomRe/Tech-Books/blob/da4041448f3dbfc41146c9e86bcfcc04c19b1f94/DataSci%20Books/SQL%20A%20Beginner's%20Guide.pdf)
 
-27. []()
+27. [SQL Antipatterns - Avoiding the Pitfalls of Database Programming](https://github.com/FatoomRe/Tech-Books/blob/da4041448f3dbfc41146c9e86bcfcc04c19b1f94/DataSci%20Books/SQL%20Antipatterns%20-%20Avoiding%20the%20Pitfalls%20of%20Database%20Programming.pdf)
 
-28. []()
+28. [SQL Performance Explained](https://github.com/FatoomRe/Tech-Books/blob/da4041448f3dbfc41146c9e86bcfcc04c19b1f94/DataSci%20Books/SQL%20Performance%20Explained.pdf)
 
-29. []()
+29. [Sams Teach Yourself SQL in 24 Hours](https://github.com/FatoomRe/Tech-Books/blob/da4041448f3dbfc41146c9e86bcfcc04c19b1f94/DataSci%20Books/Sams%20Teach%20Yourself%20SQL%20in%2024%20Hours.pdf)
 
-30. []()
+30. [Scaling CouchDB](https://github.com/FatoomRe/Tech-Books/blob/da4041448f3dbfc41146c9e86bcfcc04c19b1f94/DataSci%20Books/Scaling%20CouchDB.pdf)
 
-31. []()
+31. [Seven Database In Seven Weeks](https://github.com/FatoomRe/Tech-Books/blob/da4041448f3dbfc41146c9e86bcfcc04c19b1f94/DataSci%20Books/Seven%20Database%20In%20Seven%20Weeks.pdf)
 
-32. []()
+32. [The Art of SQL](https://github.com/FatoomRe/Tech-Books/blob/da4041448f3dbfc41146c9e86bcfcc04c19b1f94/DataSci%20Books/The%20Art%20of%20SQL.pdf)
 
-33. []()
+33. [The Data Warehouse Toolkit](https://github.com/FatoomRe/Tech-Books/blob/da4041448f3dbfc41146c9e86bcfcc04c19b1f94/DataSci%20Books/The%20Data%20Warehouse%20Toolkit.pdf)
 
-34. []()
+34. [The Definitive Guide to MongoDB](https://github.com/FatoomRe/Tech-Books/blob/da4041448f3dbfc41146c9e86bcfcc04c19b1f94/DataSci%20Books/The%20Definitive%20Guide%20to%20MongoDB.pdf)
 
 ## 10. UI/UX Books 🎨 
 
