@@ -223,11 +223,75 @@
 
 ## 9. Data Science Books 🗃️ 
 
-(will be added soon) 🔜
+0. [Beginning Database Design](https://github.com/FatoomRe/Tech-Books/blob/71914f00c71ea78b859c546e4b8091673069abcc/DataSci%20Books/Beginning%20Database%20Design.pdf)
 
-0. -------
-1. -------
-2. -------
+1. [Cassandra The Definitive Guide](https://github.com/FatoomRe/Tech-Books/blob/71914f00c71ea78b859c546e4b8091673069abcc/DataSci%20Books/Cassandra%20The%20Definitive%20Guide.pdf)
+
+2. [Creating your MySQL Database - Practical Design Tips & Techniques](https://github.com/FatoomRe/Tech-Books/blob/71914f00c71ea78b859c546e4b8091673069abcc/DataSci%20Books/Creating%20your%20MySQL%20Database%20-%20%20Practical%20Design%20Tips%20%26%20Techniques.pdf)
+
+3. [Database Development for Dummies](https://github.com/FatoomRe/Tech-Books/blob/71914f00c71ea78b859c546e4b8091673069abcc/DataSci%20Books/Database%20Development%20for%20Dummies.pdf)
+
+4. [Database In Depth](https://github.com/FatoomRe/Tech-Books/blob/71914f00c71ea78b859c546e4b8091673069abcc/DataSci%20Books/Database%20In%20Depth.pdf)
+
+5. [Database System Concepts](https://github.com/FatoomRe/Tech-Books/blob/71914f00c71ea78b859c546e4b8091673069abcc/DataSci%20Books/Database%20System%20Concepts.pdf)
+
+6. [Designing Data-Intensive Applications](https://github.com/FatoomRe/Tech-Books/blob/71914f00c71ea78b859c546e4b8091673069abcc/DataSci%20Books/Designing%20Data-Intensive%20Applications.pdf)
+
+7. [Fundamentals of Database System](https://github.com/FatoomRe/Tech-Books/blob/71914f00c71ea78b859c546e4b8091673069abcc/DataSci%20Books/Fundamentals%20of%20Database%20System.pdf)
+
+8. [Fundamentals of Relational Database Management System](https://github.com/FatoomRe/Tech-Books/blob/71914f00c71ea78b859c546e4b8091673069abcc/DataSci%20Books/Fundamentals%20of%20Relational%20Database%20Management%20System.pdf)
+
+9. [Fundations of Database](https://github.com/FatoomRe/Tech-Books/blob/71914f00c71ea78b859c546e4b8091673069abcc/DataSci%20Books/Fundations%20of%20Database.pdf)
+
+10. [Graph Databases](https://github.com/FatoomRe/Tech-Books/blob/71914f00c71ea78b859c546e4b8091673069abcc/DataSci%20Books/Graph%20Databases.pdf)
+
+11. []()
+
+12. []()
+
+13. []()
+
+14. []()
+
+15. []()
+
+16. []()
+
+17. []()
+
+18. []()
+
+19. []()
+
+20. []()
+
+21. []()
+
+22. []()
+
+23. []()
+
+24. []()
+
+25. []()
+
+26. []()
+
+27. []()
+
+28. []()
+
+29. []()
+
+30. []()
+
+31. []()
+
+32. []()
+
+33. []()
+
+34. []()
 
 ## 10. UI/UX Books 🎨 
 
