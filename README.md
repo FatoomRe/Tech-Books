@@ -123,8 +123,15 @@
 
   0. [Creating Mobile Apps with Xamarin Forms](https://github.com/FatoomRe/Computer_Science_Books/blob/26dac1f4e1045ad89259198ecee4136d6b318476/Microsoft_Press_eBook_CreatingMobileAppswithXamarinForms_PDF.pdf)
 
+## 3. UI/UX Books 🎨 
 
-## 3. Cybersecurity Books 🥷
+(will be added soon) 🔜
+
+0. -------
+1. -------
+2. -------
+
+## 4. Cybersecurity Books 🥷
 
   0. [Cybersecurity For Dummies](https://github.com/FatoomRe/Computer_Science_Books/blob/0810bd5c9073b5eea2ff697eefe4a457b646aa57/Cybersecurity%20Books/Cybersecurity-for-dummies.pdf)
 
@@ -132,7 +139,7 @@
 
 
 
-## 4. Artificial Intelligence Books 🧠
+## 5. Artificial Intelligence Books 🧠
 
   0. [Artificial Intelligence for Dummies](https://github.com/FatoomRe/Computer_Science_Books/blob/0810bd5c9073b5eea2ff697eefe4a457b646aa57/AI%20Books/Artificial%20Intelligence%20for%20Dummies%20(John%20Paul%20Mueller%2C%20Luca%20Massaron)%20(z-lib.org).pdf)
 
@@ -143,7 +150,7 @@
 
 
 
-## 5. Robotics Books 🤖
+## 6. Robotics Books 🤖
 
   0. [Introduction to Autonomous Mobile Robots](https://github.com/FatoomRe/Computer_Science_Books/blob/0810bd5c9073b5eea2ff697eefe4a457b646aa57/Robotics%20Books/Introduction%20to%20Autonomous%20Mobile%20Robots%20book.pdf)
 
@@ -163,7 +170,7 @@
 
 
 
- ## 6. Arduino Books 📟
+ ## 7. Arduino Books 📟
 
  0. [30 Arduino Projects for the Evil Genius](https://github.com/FatoomRe/Computer_Science_Books/blob/6993c9e680423f9e00d30c3bdd4620f3cbf36384/Arduino%20Books/30%20Arduino%20Projects%20for%20the%20Evil%20Genius%20(Simon%20Monk)%20(z-lib.org).pdf)
 
@@ -176,7 +183,7 @@
  4. [Arduino projects handbook](https://github.com/FatoomRe/Computer_Science_Books/blob/09533dc6640fd4189fb39771a23b7e08abcb2baf/Arduino%20Books/arduinoprojecthandbook.pdf)
     
 
-## 7. Drones  Books 🚁
+## 8. Drones  Books 🚁
 
 
 0. [Building Smart Drones with ESP8266 and Arduino](https://github.com/FatoomRe/Tech-Books/blob/7e329273c8ca52b846aa236638ea8da4bdb7bd5b/Drones%20Books/Building%20Smart%20Drones%20with%20ESP8266%20and%20Arduino%20Build%20exciting%20drones%20by%20leveraging%20the%20capabilities%20of%20Arduino%20and%20ESP8266.pdf)
@@ -187,7 +194,16 @@
 
 3. [Make_ Getting Started with Drones_ Build and Customize Your Own](https://github.com/FatoomRe/Tech-Books/blob/7e329273c8ca52b846aa236638ea8da4bdb7bd5b/Drones%20Books/Make_%20Getting%20Started%20with%20Drones_%20Build%20and%20Customize%20Your%20Own%20Quadcopter.pdf)
 
-## 8. Internet of Things Books 🛰️ 
+## 9. 3D Printing Books 🧊
+
+(will be added soon) 🔜
+
+0. ------
+1. ------
+2. ------
+ 
+
+## 10. Internet of Things Books 🛰️ 
 
 0. [Architecting the Internet of Things](https://github.com/FatoomRe/Tech-Books/blob/9812ce4b201b7fb10ea95d9513c29ebf23e74345/IoT%20Books/Architecting%20the%20Internet%20of%20Things.pdf)
 
@@ -221,7 +237,7 @@
 
 15. [Value Creation and the Internet of Things](https://github.com/FatoomRe/Tech-Books/blob/7798bf7855eb49815971345c235cdccff51ba64c/IoT%20Books/Value%20Creation%20and%20the%20Internet%20of%20Things.pdf) 
 
-## 9. Data Science Books 🗃️ 
+## 11. Data Science Books 🗃️ 
 
 0. [Beginning Database Design](https://github.com/FatoomRe/Tech-Books/blob/71914f00c71ea78b859c546e4b8091673069abcc/DataSci%20Books/Beginning%20Database%20Design.pdf)
 
@@ -293,15 +309,46 @@
 
 34. [The Definitive Guide to MongoDB](https://github.com/FatoomRe/Tech-Books/blob/da4041448f3dbfc41146c9e86bcfcc04c19b1f94/DataSci%20Books/The%20Definitive%20Guide%20to%20MongoDB.pdf)
 
-## 10. UI/UX Books 🎨 
+
+## 12. Games Development Books 👾 
 
 (will be added soon) 🔜
 
-0. -------
-1. -------
-2. -------
+0. ------
+1. ------
+2. ------
 
- 
+   
+## 13. Programming Languages Books </>
+
+(will be added soon) 🔜
+
+<h3>🔷 Python</h3> 
+
+0. []()
+1. []()
+2. []()
+
+<h3>🔷 Java</h3> 
+
+0. []()
+1. []()
+2. []()
+
+<h3>🔷 JavaScript</h3> 
+
+0. []()
+1. []()
+2. []()
+
+<h3>🔷 C++</h3> 
+
+0. []()
+1. []()
+2. []()
+
+
+
 
 
   
