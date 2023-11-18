@@ -245,25 +245,25 @@
 
 10. [Graph Databases](https://github.com/FatoomRe/Tech-Books/blob/71914f00c71ea78b859c546e4b8091673069abcc/DataSci%20Books/Graph%20Databases.pdf)
 
-11. []()
+11. [Intro to Relational Database Theory](https://github.com/FatoomRe/Tech-Books/blob/b45200a30414c5830c3358c10eaf0ff362c20422/DataSci%20Books/Intro%20to%20Relational%20Database%20Theory.pdf)
 
-12. []()
+12. [Learning Neo4j](https://github.com/FatoomRe/Tech-Books/blob/b45200a30414c5830c3358c10eaf0ff362c20422/DataSci%20Books/Learning%20Neo4j.pdf)
 
-13. []()
+13. [Learning PostgreSQL](https://github.com/FatoomRe/Tech-Books/blob/b45200a30414c5830c3358c10eaf0ff362c20422/DataSci%20Books/Learning%20PostgreSQL.pdf)
 
-14. []()
+14. [Master SQL](https://github.com/FatoomRe/Tech-Books/blob/b45200a30414c5830c3358c10eaf0ff362c20422/DataSci%20Books/Master%20SQL.pdf)
 
-15. []()
+15. [Mastering RethinkDB](https://github.com/FatoomRe/Tech-Books/blob/b45200a30414c5830c3358c10eaf0ff362c20422/DataSci%20Books/Mastering%20RethinkDB.pdf)
 
-16. []()
+16. [Microsoft SQL Azure; Enterprise Application Development](https://github.com/FatoomRe/Tech-Books/blob/b45200a30414c5830c3358c10eaf0ff362c20422/DataSci%20Books/Microsoft%20SQL%20Azure%3B%20Enterprise%20Application%20Development.pdf)
 
-17. []()
+17. [MongoDB Basics](https://github.com/FatoomRe/Tech-Books/blob/b45200a30414c5830c3358c10eaf0ff362c20422/DataSci%20Books/MongoDB%20Basics.pdf)
 
-18. []()
+18. [MySQL Internals](https://github.com/FatoomRe/Tech-Books/blob/b45200a30414c5830c3358c10eaf0ff362c20422/DataSci%20Books/MySQL%20Internals.pdf)
 
-19. []()
+19. [MySQL for Python](https://github.com/FatoomRe/Tech-Books/blob/b45200a30414c5830c3358c10eaf0ff362c20422/DataSci%20Books/MySQL%20for%20Python.pdf)
 
-20. []()
+20. [Oracle Database 11gR2 Performance Tuning Cookbook](https://github.com/FatoomRe/Tech-Books/blob/b45200a30414c5830c3358c10eaf0ff362c20422/DataSci%20Books/Oracle%20Database%2011gR2%20Performance%20Tuning%20Cookbook.pdf)
 
 21. []()
 
