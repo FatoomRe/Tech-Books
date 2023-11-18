@@ -82,15 +82,18 @@
 
   5. [android-application-development-for-for-dummies](https://github.com/FatoomRe/Computer_Science_Books/blob/3e7ee4273ff2448ffe9e5e2858ffd3d5e72aab76/ANDROID%20Books/android-application-development-for-for-dummies.pdf)
 
+
 <h5>With Kotlin: </h5>
 
 (will be added soon) 🔜
 
-  0. -----
+  0. []()
 
-  1. -----
+  1. []()
 
-  2. -----
+  2. []()
+
+-------
 
 <h3>Cross-Platforms Apps: </h3>
 <h4>🔷 Flutter </h4>
@@ -113,11 +116,11 @@
 
 (will be added soon) 🔜
 
-  0. -----
+  0. []()
 
-  1. -----
+  1. []()
 
-  2. -----
+  2. []()
 
 <h4>🔷 Xamarin </h4>
 
@@ -127,9 +130,9 @@
 
 (will be added soon) 🔜
 
-0. -------
-1. -------
-2. -------
+0. []()
+1. []()
+2. []()
 
 ## 4. Cybersecurity Books 🥷
 
@@ -198,9 +201,9 @@
 
 (will be added soon) 🔜
 
-0. ------
-1. ------
-2. ------
+0. []()
+1. []()
+2. []()
  
 
 ## 10. Internet of Things Books 🛰️ 
@@ -314,9 +317,9 @@
 
 (will be added soon) 🔜
 
-0. ------
-1. ------
-2. ------
+0. []()
+1. []()
+2. []()
 
    
 ## 13. Programming Languages Books </>
@@ -347,6 +350,7 @@
 1. []()
 2. []()
 
+-------
 
 
 
