@@ -68,7 +68,7 @@
 
 <h4>🔷 Android </h4>
 
-<h5>With Java: </h5>
+<h5>With Java: 🔻 </h5>
 
   0. [Android App Development in Android Studio - Java plus Android edition for beginners](https://github.com/FatoomRe/Computer_Science_Books/blob/5f9d5c66ba2a1919af9a840b73a598e2176a1a57/ANDROID%20Books/Android%20App%20Development%20in%20Android%20Studio%20-%20Java%20plus%20Android%20edition%20for%20beginners.pdf)
 
@@ -83,7 +83,7 @@
   5. [android-application-development-for-for-dummies](https://github.com/FatoomRe/Computer_Science_Books/blob/3e7ee4273ff2448ffe9e5e2858ffd3d5e72aab76/ANDROID%20Books/android-application-development-for-for-dummies.pdf)
 
 
-<h5>With Kotlin: </h5>
+<h5>With Kotlin: 🔻 </h5>
 
 (will be added soon) 🔜
 
