@@ -24,6 +24,18 @@
 
   4. [secrets of the javascript ninja](https://github.com/FatoomRe/Computer_Science_Books/blob/09533dc6640fd4189fb39771a23b7e08abcb2baf/WebDev%20Books/secretsofthejavascriptninja.pdf)
 
+  5. [Full Stack JavaScript Development with MEAN](https://github.com/FatoomRe/Tech-Books/blob/f80e76aafeacca7bbaed230aa8e39fd188422c0c/WebDev%20Books/Full_Stack_JavaScript_Development_with_MEAN.pdf)
+
+  6. [Jump_Start_CSS](https://github.com/FatoomRe/Tech-Books/blob/f80e76aafeacca7bbaed230aa8e39fd188422c0c/WebDev%20Books/Jump_Start_CSS.pdf)
+
+  7. [Jump_Start_HTML5](https://github.com/FatoomRe/Tech-Books/blob/f80e76aafeacca7bbaed230aa8e39fd188422c0c/WebDev%20Books/Jump_Start_HTML5.pdf)
+
+  8. [Jump_Start_Javascript](https://github.com/FatoomRe/Tech-Books/blob/f80e76aafeacca7bbaed230aa8e39fd188422c0c/WebDev%20Books/Jump_Start_Javascript.pdf)
+
+  9. [Jump_Start_Php](https://github.com/FatoomRe/Tech-Books/blob/f80e76aafeacca7bbaed230aa8e39fd188422c0c/WebDev%20Books/Jump_Start_Php.pdf)
+
+  10. [Jump_Start_Php_Environment](https://github.com/FatoomRe/Tech-Books/blob/f80e76aafeacca7bbaed230aa8e39fd188422c0c/WebDev%20Books/Jump_Start_Php_Environment.pdf)
+
 ## 2. Mobile Apps Development Books 📱
 
 <h3>Native Apps: </h3>
