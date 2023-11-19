@@ -108,7 +108,7 @@
 -------
 
 <h3>Cross-Platforms Apps: </h3>
-<h3>🔶 Flutter </h3>
+<h3>🔷 Flutter </h3>
 
   0. [beginning to Flutter A Hands-on guide to app](https://github.com/FatoomRe/Computer_Science_Books/blob/60c95b2f2bb90294424e7afe80d5b9b01e06dc2b/Flutter%20Books/Beginning%20Flutter%20A%20Hands%20on%20guide%20to%20app%20dev.pdf)
 
@@ -124,7 +124,7 @@
 
   6. [Practical-Flutter](https://github.com/FatoomRe/Computer_Science_Books/blob/60c95b2f2bb90294424e7afe80d5b9b01e06dc2b/Flutter%20Books/Practical-Flutter-www.android-learn.ir.pdf)
 
-<h3>🔶 React Native </h3>
+<h3>🔷 React Native </h3>
 
 (will be added soon) 🔜
 
@@ -134,7 +134,7 @@
 
   2. []()
 
-<h3>🔶 Xamarin </h3>
+<h3>🔷 Xamarin </h3>
 
   0. [Creating Mobile Apps with Xamarin Forms](https://github.com/FatoomRe/Tech-Books/blob/5372555bf83bc12fbc78d9abe390c6deec40015a/Xamarin%20Books/Microsoft_Press_eBook_CreatingMobileAppswithXamarinForms_PDF.pdf)
 
