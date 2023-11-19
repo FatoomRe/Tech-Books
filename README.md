@@ -5,11 +5,11 @@
 
 ## 0.Random Books 🖥️
 
-  0. [Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions](Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf)
+  0. [Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions](https://github.com/FatoomRe/Tech-Books/blob/4b83a3d3cf4073074dcb2ec74219f7582b2af14d/RandomBooks/Cracking-the-Coding-Interview-6th-Edition-189-Programming-Questions-and-Solutions.pdf)
 
-  1. [Guide to Competitive Programming_ Learning and Improving Algorithms Through Contests](https://github.com/FatoomRe/Computer_Science_Books/blob/d4e03db88e31bf0c59964266f4000b8e9f66d4a0/Guide%20to%20Competitive%20Programming_%20Learning%20and%20Improving%20Algorithms%20Through%20Contests.pdf)
+  1. [Guide to Competitive Programming_ Learning and Improving Algorithms Through Contests](https://github.com/FatoomRe/Tech-Books/blob/4b83a3d3cf4073074dcb2ec74219f7582b2af14d/RandomBooks/Guide%20to%20Competitive%20Programming_%20Learning%20and%20Improving%20Algorithms%20Through%20Contests.pdf)
 
-  2. [Clean Code](https://github.com/FatoomRe/Computer_Science_Books/blob/c4d29bdc2ac55582cdece60845064aaeec145430/Clean%20Code.pdf)
+  2. [Clean Code](https://github.com/FatoomRe/Tech-Books/blob/4b83a3d3cf4073074dcb2ec74219f7582b2af14d/RandomBooks/Clean%20Code.pdf)
 
 
 ## 1. Web Development Books 🌐
