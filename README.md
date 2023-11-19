@@ -39,7 +39,7 @@
 ## 2. Mobile Apps Development Books 📱
 
 <h3>Native Apps: </h3>
-<h4>🔷 IOS</h4> 
+<h3>🔷 IOS</h3> 
 
   0. [Beginning Swift Games Development for iOS](https://github.com/FatoomRe/Computer_Science_Books/blob/24016b02c176591bc365684d4ac5e7eae77bdb96/IOS%20Books/Beginning%20Swift%20Games%20Development%20for%20iOS.pdf)
   
@@ -78,7 +78,7 @@
   17. [macOS Programming for Absolute Beginners](https://github.com/FatoomRe/Computer_Science_Books/blob/24016b02c176591bc365684d4ac5e7eae77bdb96/IOS%20Books/macOS%20Programming%20for%20Absolute%20Beginners.pdf)
 
 
-<h4>🔷 Android </h4>
+<h3>🔷 Android </h3>
 
 <h5>With Java: 🔻 </h5>
 
@@ -108,7 +108,7 @@
 -------
 
 <h3>Cross-Platforms Apps: </h3>
-<h4>🔷 Flutter </h4>
+<h3>🔷 Flutter </h3>
 
   0. [beginning to Flutter A Hands-on guide to app](https://github.com/FatoomRe/Computer_Science_Books/blob/60c95b2f2bb90294424e7afe80d5b9b01e06dc2b/Flutter%20Books/Beginning%20Flutter%20A%20Hands%20on%20guide%20to%20app%20dev.pdf)
 
@@ -124,7 +124,7 @@
 
   6. [Practical-Flutter](https://github.com/FatoomRe/Computer_Science_Books/blob/60c95b2f2bb90294424e7afe80d5b9b01e06dc2b/Flutter%20Books/Practical-Flutter-www.android-learn.ir.pdf)
 
-<h4>🔷 React Native </h4>
+<h3>🔷 React Native </h3>
 
 (will be added soon) 🔜
 
@@ -134,7 +134,7 @@
 
   2. []()
 
-<h4>🔷 Xamarin </h4>
+<h3>🔷 Xamarin </h3>
 
   0. [Creating Mobile Apps with Xamarin Forms](https://github.com/FatoomRe/Tech-Books/blob/5372555bf83bc12fbc78d9abe390c6deec40015a/Xamarin%20Books/Microsoft_Press_eBook_CreatingMobileAppswithXamarinForms_PDF.pdf)
 
@@ -336,27 +336,49 @@
    
 ## 13. Programming Languages </>
 
+<h3>🔶 C++</h3> 
+
+0. [Beginning C++ Programming](https://github.com/FatoomRe/Tech-Books/blob/c26065716428be5d9cb88de77f6294df86801a57/C%2B%2BBooks/Beginning%20C%2B%2B%20Programming.pdf)
+
+1. [Beginning Programming with C++ For Dummies](https://github.com/FatoomRe/Tech-Books/blob/c26065716428be5d9cb88de77f6294df86801a57/C%2B%2BBooks/Beginning%20Programming%20with%20C%2B%2B%20For%20Dummies.pdf)
+
+2. [C++ Cookbook](https://github.com/FatoomRe/Tech-Books/blob/c26065716428be5d9cb88de77f6294df86801a57/C%2B%2BBooks/C%2B%2B%20Cookbook.pdf)
+
+3. [C++ For Dummies (5th Edition)](https://github.com/FatoomRe/Tech-Books/blob/c26065716428be5d9cb88de77f6294df86801a57/C%2B%2BBooks/C%2B%2B%20For%20Dummies%20(5th%20Edition).pdf)
+
+4. [C++ Plus Data Structures](https://github.com/FatoomRe/Tech-Books/blob/c26065716428be5d9cb88de77f6294df86801a57/C%2B%2BBooks/C%2B%2B%20Plus%20Data%20Structures.pdf)
+
+5. [C++ Programming Wiki Edition](https://github.com/FatoomRe/Tech-Books/blob/c26065716428be5d9cb88de77f6294df86801a57/C%2B%2BBooks/C%2B%2B%20Programming%20Wiki%20Edition.pdf)
+
+6. [C++ Timesaving Techniques for Dummies](https://github.com/FatoomRe/Tech-Books/blob/c26065716428be5d9cb88de77f6294df86801a57/C%2B%2BBooks/C%2B%2B%20Timesaving%20Techniques%20for%20Dummies.pdf)
+
+7. [Complate Guide To Programming in C++](https://github.com/FatoomRe/Tech-Books/blob/c26065716428be5d9cb88de77f6294df86801a57/C%2B%2BBooks/Complate%20Guide%20To%20Programming%20in%20C%2B%2B.pdf)
+
+8. [O'Reilly - Practical C++ Programming](https://github.com/FatoomRe/Tech-Books/blob/c26065716428be5d9cb88de77f6294df86801a57/C%2B%2BBooks/O'Reilly%20-%20Practical%20C%2B%2B%20Programming.pdf)
+
+9. [Object Oriented Programming in C++ 4thEdition](https://github.com/FatoomRe/Tech-Books/blob/c26065716428be5d9cb88de77f6294df86801a57/C%2B%2BBooks/ObjectOrientedProgramminginC4thEdition.pdf)
+
+10. [Professional C++](https://github.com/FatoomRe/Tech-Books/blob/c26065716428be5d9cb88de77f6294df86801a57/C%2B%2BBooks/Professional%20C%2B%2B.pdf)
+
+<h3>🔶 JavaScript</h3> 
+
 (will be added soon) 🔜
 
-<h4>🔶 C++</h4> 
+0. []()
+1. []()
+2. []()
+
+<h3>🔶 Python</h3> 
+
+(will be added soon) 🔜
 
 0. []()
 1. []()
 2. []()
 
-<h4>🔶 JavaScript</h4> 
+<h3>🔶 Java</h3> 
 
-0. []()
-1. []()
-2. []()
-
-<h4>🔶 Python</h4> 
-
-0. []()
-1. []()
-2. []()
-
-<h4>🔶 Java</h4> 
+(will be added soon) 🔜
 
 0. []()
 1. []()
