@@ -9,7 +9,9 @@
 
   1. [Guide to Competitive Programming_ Learning and Improving Algorithms Through Contests](https://github.com/FatoomRe/Tech-Books/blob/4b83a3d3cf4073074dcb2ec74219f7582b2af14d/RandomBooks/Guide%20to%20Competitive%20Programming_%20Learning%20and%20Improving%20Algorithms%20Through%20Contests.pdf)
 
-  2. [Clean Code](https://github.com/FatoomRe/Tech-Books/blob/4b83a3d3cf4073074dcb2ec74219f7582b2af14d/RandomBooks/Clean%20Code.pdf)
+  2. [Clean Code A Handbook of Agile Software Craftsmanship ](https://github.com/FatoomRe/Tech-Books/blob/4b83a3d3cf4073074dcb2ec74219f7582b2af14d/RandomBooks/Clean%20Code.pdf)
+
+  3. [The Self-Taught Programmer The Definitive Guide to Programming Professionally](https://github.com/FatoomRe/Tech-Books/blob/691879eba8d3236192af93ab039fe052f9fc2222/RandomBooks/The%20Self-Taught%20Programmer%20The%20Definitive%20Guide%20to%20Programming%20Professionally%20(Cory%20Althoff)%20(z-lib.org).pdf)
 
 
 ## 1. Web Development Books 🌐
