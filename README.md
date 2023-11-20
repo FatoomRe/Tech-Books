@@ -99,11 +99,19 @@
 
 (will be added soon) 🔜
 
-  0. []()
+  0. [Android Development with Kotlin](https://github.com/FatoomRe/Tech-Books/blob/cefd8f55d4b08b671473f17640ea3390c2607105/Kotlin%20Books/Android%20Development%20with%20Kotlin.pdf)
 
-  1. []()
+  1. [Android_programming_with_kotlin_for_beginners](https://github.com/FatoomRe/Tech-Books/blob/cefd8f55d4b08b671473f17640ea3390c2607105/Kotlin%20Books/Android_programming_with_kotlin_for_beginners.pdf)
 
-  2. []()
+  2. [Learn Kotlin for Android Development ](https://github.com/FatoomRe/Tech-Books/blob/cefd8f55d4b08b671473f17640ea3390c2607105/Kotlin%20Books/Apress.Learn.Kotlin.for.Android.Development..www.EBooksWorld.ir.pdf)
+
+  3. [Kotlin-for-Android-Developers-Learn-Kotlin-the-easy-way-while-developing-an-Android-App](https://github.com/FatoomRe/Tech-Books/blob/cefd8f55d4b08b671473f17640ea3390c2607105/Kotlin%20Books/Kotlin-for-Android-Developers-learn-Kotlin-the-easy-way-while-developing-an-Android-App.pdf)
+
+  4. [Mastering Kotlin](https://github.com/FatoomRe/Tech-Books/blob/cefd8f55d4b08b671473f17640ea3390c2607105/Kotlin%20Books/Mastering%20Kotlin.pdf)
+
+  5. [kotlin-docs](https://github.com/FatoomRe/Tech-Books/blob/cefd8f55d4b08b671473f17640ea3390c2607105/Kotlin%20Books/kotlin-docs.pdf)
+
+  6. [Learning kotlin](https://github.com/FatoomRe/Tech-Books/blob/cefd8f55d4b08b671473f17640ea3390c2607105/Kotlin%20Books/kotlin.pdf)
 
 -------
 
