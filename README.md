@@ -13,6 +13,8 @@
 
   3. [The Self-Taught Programmer The Definitive Guide to Programming Professionally](https://github.com/FatoomRe/Tech-Books/blob/691879eba8d3236192af93ab039fe052f9fc2222/RandomBooks/The%20Self-Taught%20Programmer%20The%20Definitive%20Guide%20to%20Programming%20Professionally%20(Cory%20Althoff)%20(z-lib.org).pdf)
 
+  4. [The Fourth Age Smart Robots, Conscious Computers, and the Future of Humanity](https://github.com/FatoomRe/Tech-Books/blob/2a9c1f7a19849b596657baf39bc034e48b44865a/RandomBooks/The%20Fourth%20Age%20Smart%20Robots%2C%20Conscious%20Computers%2C%20and%20the%20Future%20of%20Humanity%20(Byron%20Reese)%20(z-lib.org).pdf)
+
 
 ## 1. Web Development Books 🌐
 
