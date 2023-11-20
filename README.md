@@ -233,13 +233,19 @@
 
 3. [Make_ Getting Started with Drones_ Build and Customize Your Own](https://github.com/FatoomRe/Tech-Books/blob/7e329273c8ca52b846aa236638ea8da4bdb7bd5b/Drones%20Books/Make_%20Getting%20Started%20with%20Drones_%20Build%20and%20Customize%20Your%20Own%20Quadcopter.pdf)
 
+4. [Small Flying Drones Applications for Geographic Observation](https://github.com/FatoomRe/Tech-Books/blob/b8887e076d76ad3b19ee810a344817a9ce0e044d/Drones%20Books/Small%20Flying%20Drones%20Applications%20for%20Geographic%20Observation.pdf)
+
 ## 9. 3D Printing Books 🧊
 
-(will be added soon) 🔜
+0. [3D Printing Projects Amazing Ideas to Design and Make](https://github.com/FatoomRe/Tech-Books/blob/b8887e076d76ad3b19ee810a344817a9ce0e044d/3D%20Printing/3D%20Printing%20Projects%20Amazing%20Ideas%20to%20Design%20and%20Make.pdf)
+1. [3D Printing with Delta Printers](https://github.com/FatoomRe/Tech-Books/blob/b8887e076d76ad3b19ee810a344817a9ce0e044d/3D%20Printing/3D%20Printing%20with%20Delta%20Printers.pdf)
+2. [3D Printing Failures](https://github.com/FatoomRe/Tech-Books/blob/b8887e076d76ad3b19ee810a344817a9ce0e044d/3D%20Printing/3D%20Printing%20Failures.pdf)
 
-0. []()
-1. []()
-2. []()
+3. [3D printing for DUMMIES](https://github.com/FatoomRe/Tech-Books/blob/b8887e076d76ad3b19ee810a344817a9ce0e044d/3D%20Printing/3D%20printing%20for%20DUMMIES.pdf)
+
+4. [Beginning Design for 3D Printing](https://github.com/FatoomRe/Tech-Books/blob/b8887e076d76ad3b19ee810a344817a9ce0e044d/3D%20Printing/Beginning%20Design%20for%203D%20Printing.pdf)
+
+5. []()
  
 
 ## 10. Internet of Things Books 🛰️ 
