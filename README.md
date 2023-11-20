@@ -244,6 +244,8 @@
 3. [3D printing for DUMMIES](https://github.com/FatoomRe/Tech-Books/blob/b8887e076d76ad3b19ee810a344817a9ce0e044d/3D%20Printing/3D%20printing%20for%20DUMMIES.pdf)
 
 4. [Beginning Design for 3D Printing](https://github.com/FatoomRe/Tech-Books/blob/b8887e076d76ad3b19ee810a344817a9ce0e044d/3D%20Printing/Beginning%20Design%20for%203D%20Printing.pdf)
+
+5. [Design-for-3D-Printing](https://github.com/FatoomRe/Tech-Books/blob/a75dea7b40a6242580e623c532e107d1321e3a0d/3D%20Printing/Design-for-3D-Printing.pdf)
  
 
 ## 10. Internet of Things Books 🛰️ 
