@@ -200,6 +200,8 @@
  3. [ArduinoProjects For Dummies](https://github.com/FatoomRe/Computer_Science_Books/blob/09533dc6640fd4189fb39771a23b7e08abcb2baf/Arduino%20Books/ArduinoProjects%20For%20Dummies%C2%AE.pdf)
 
  4. [Arduino projects handbook](https://github.com/FatoomRe/Computer_Science_Books/blob/09533dc6640fd4189fb39771a23b7e08abcb2baf/Arduino%20Books/arduinoprojecthandbook.pdf)
+
+ 5. [Arduino Workshop](https://github.com/FatoomRe/Tech-Books/blob/2c2f118f20a658bff5b6e1f0e3193fd3ff06efc7/Arduino%20Books/Arduino%20Workshop.pdf)
     
 
 ## 8. Drones  Books 🚁
