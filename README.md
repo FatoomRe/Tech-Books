@@ -138,6 +138,10 @@
 
   0. [Creating Mobile Apps with Xamarin Forms](https://github.com/FatoomRe/Tech-Books/blob/5372555bf83bc12fbc78d9abe390c6deec40015a/Xamarin%20Books/Microsoft_Press_eBook_CreatingMobileAppswithXamarinForms_PDF.pdf)
 
+  1. [Building.Xamarin.Forms.Mobile.Apps.Using.XAML](https://github.com/FatoomRe/Tech-Books/blob/6e5a0e0c36933aafcd9948c201e73f74d90e29ad/Xamarin%20Books/Building.Xamarin.Forms.Mobile.Apps.Using.XAML.www.EBooksWorld.ir.pdf)
+
+  2. [Xamarin in Action](https://github.com/FatoomRe/Tech-Books/blob/6e5a0e0c36933aafcd9948c201e73f74d90e29ad/Xamarin%20Books/Xamarin%20in%20Action.pdf)
+
 ## 3. UI/UX Books 🎨 
 
 (will be added soon) 🔜
