@@ -212,6 +212,8 @@
  4. [Arduino projects handbook](https://github.com/FatoomRe/Computer_Science_Books/blob/09533dc6640fd4189fb39771a23b7e08abcb2baf/Arduino%20Books/arduinoprojecthandbook.pdf)
 
  5. [Arduino Workshop](https://github.com/FatoomRe/Tech-Books/blob/2c2f118f20a658bff5b6e1f0e3193fd3ff06efc7/Arduino%20Books/Arduino%20Workshop.pdf)
+
+ 6. [Python Programming for Arduino](https://github.com/FatoomRe/Tech-Books/blob/5bbd299bbfe9e9fc9eb4d67659b8e9c577b2f49f/Arduino%20Books/Python%20Programming%20for%20Arduino.pdf)
     
 
 ## 8. Drones  Books 🚁
