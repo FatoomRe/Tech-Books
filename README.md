@@ -15,6 +15,17 @@
 
   4. [The Fourth Age Smart Robots, Conscious Computers, and the Future of Humanity](https://github.com/FatoomRe/Tech-Books/blob/2a9c1f7a19849b596657baf39bc034e48b44865a/RandomBooks/The%20Fourth%20Age%20Smart%20Robots%2C%20Conscious%20Computers%2C%20and%20the%20Future%20of%20Humanity%20(Byron%20Reese)%20(z-lib.org).pdf)
 
+<h3>Tech-Novels 📖</h3> 
+
+0. [Ghost in the Wires - My Adventures as the World's Most Wanted Hacker](https://github.com/FatoomRe/Tech-Books/blob/b5a0ceac639454bb35271cff429e9d920b5204a8/RandomBooks/Ghost%20in%20the%20Wires%20My%20Adventures%20as%20the%20Worlds%20Most%20Wanted%20Hacker%20%20issue.pdf)
+
+1. [Coders - Who they are, what they thinking, and how they are changing our world](https://github.com/FatoomRe/Tech-Books/blob/b5a0ceac639454bb35271cff429e9d920b5204a8/RandomBooks/Coders%20the%20making%20of%20a%20new%20tribe%20and%20the%20remaking%20of%20the%20world.pdf)
+
+2. [Girl Code - Gaming, Going Viral, And Getting it Done](https://github.com/FatoomRe/Tech-Books/blob/b5a0ceac639454bb35271cff429e9d920b5204a8/RandomBooks/Girl%20Code.pdf)
+
+3. [The Phoenix Project - A novel about IT, DevOps, and Helping your Business Win](https://github.com/FatoomRe/Tech-Books/blob/b5a0ceac639454bb35271cff429e9d920b5204a8/RandomBooks/PhoenixProjectExcerpt.pdf)
+
+
 
 ## 1. Web Development Books 🌐
 
