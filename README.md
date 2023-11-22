@@ -192,7 +192,7 @@
   0. [Artificial Intelligence for Dummies](https://github.com/FatoomRe/Computer_Science_Books/blob/0810bd5c9073b5eea2ff697eefe4a457b646aa57/AI%20Books/Artificial%20Intelligence%20for%20Dummies%20(John%20Paul%20Mueller%2C%20Luca%20Massaron)%20(z-lib.org).pdf)
 
 
-  1. [Artificial Intelligence & Machine Learning](https://github.com/FatoomRe/Computer_Science_Books/blob/0810bd5c9073b5eea2ff697eefe4a457b646aa57/AI%20Books/Artificial-Intelligence-and-Machine-Learning-ar-v1.0.0.pdf)
+  1. [Artificial Intelligence & Machine Learning (Arabic)](https://github.com/FatoomRe/Computer_Science_Books/blob/0810bd5c9073b5eea2ff697eefe4a457b646aa57/AI%20Books/Artificial-Intelligence-and-Machine-Learning-ar-v1.0.0.pdf)
 
   2. [Practical Artificial Intelligence Programming with Java](https://github.com/FatoomRe/Computer_Science_Books/blob/0810bd5c9073b5eea2ff697eefe4a457b646aa57/AI%20Books/Practical%20Artificial%20Intelligence%20With%20Java.pdf)
 
