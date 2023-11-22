@@ -196,6 +196,24 @@
 
   2. [Practical Artificial Intelligence Programming with Java](https://github.com/FatoomRe/Computer_Science_Books/blob/0810bd5c9073b5eea2ff697eefe4a457b646aa57/AI%20Books/Practical%20Artificial%20Intelligence%20With%20Java.pdf)
 
+  3. [Artificial Intelligence for Robotics](https://github.com/FatoomRe/Tech-Books/blob/474bd6d4767389a445525d04133a2f47d0121a07/AI%20Books/Artificial%20Intelligence%20for%20Robotics.pdf)
+
+  4. [Artificial Intelligence with Python](https://github.com/FatoomRe/Tech-Books/blob/474bd6d4767389a445525d04133a2f47d0121a07/AI%20Books/Artificial%20Intelligence%20with%20Python.pdf)
+
+  5. [Computer Vision Algorithms and Applications](https://github.com/FatoomRe/Tech-Books/blob/474bd6d4767389a445525d04133a2f47d0121a07/AI%20Books/Computer%20Vision%20Algorithms%20and%20Applications.pdf)
+
+  6. [Hands-On Artificial Intelligence with Java for Beginners](https://github.com/FatoomRe/Tech-Books/blob/474bd6d4767389a445525d04133a2f47d0121a07/AI%20Books/Hands-On%20Artificial%20Intelligence%20with%20Java%20for%20Beginners..pdf)
+
+  7. [Machine Learning_ An Algorithmic Perspective](https://github.com/FatoomRe/Tech-Books/blob/474bd6d4767389a445525d04133a2f47d0121a07/AI%20Books/Machine%20Learning_%20An%20Algorithmic%20Perspective%20(2nd%20ed.)%20%5BMarsland%202014-10-08%5D.pdf)
+
+  8. [Machine_Learning_in_Action](https://github.com/FatoomRe/Tech-Books/blob/474bd6d4767389a445525d04133a2f47d0121a07/AI%20Books/Machine_Learning_in_Action.pdf)
+
+  9. [Python Artificial Intelligence Projects for Beginners](https://github.com/FatoomRe/Tech-Books/blob/474bd6d4767389a445525d04133a2f47d0121a07/AI%20Books/Python%20Artificial%20Intelligence%20Projects%20for%20Beginners.pdf)
+
+  10. [Rebooting AI Building Artificial Intelligence We Can Trust](https://github.com/FatoomRe/Tech-Books/blob/474bd6d4767389a445525d04133a2f47d0121a07/AI%20Books/Rebooting%20AI%20Building%20Artificial%20Intelligence%20We%20Can%20Trust.pdf)
+
+  11. [speech and language processing](https://github.com/FatoomRe/Tech-Books/blob/474bd6d4767389a445525d04133a2f47d0121a07/AI%20Books/speech%20and%20language%20processing.pdf)
+
 
 
 ## 6. Robotics Books 🤖
@@ -409,13 +427,6 @@
 
 10. [Professional C++](https://github.com/FatoomRe/Tech-Books/blob/c26065716428be5d9cb88de77f6294df86801a57/C%2B%2BBooks/Professional%20C%2B%2B.pdf)
 
-<h3>🔶 JavaScript</h3> 
-
-(will be added soon) 🔜
-
-0. []()
-1. []()
-2. []()
 
 <h3>🔶 Python</h3> 
 
