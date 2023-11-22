@@ -430,19 +430,15 @@
 
 <h3>🔶 Python</h3> 
 
-(will be added soon) 🔜
+0. [AUTOMATE THE BORING STUFF WITH PYTHON](https://github.com/FatoomRe/Tech-Books/blob/54e31156f5dd814ecf955c6c882d5a2c11082c82/Python%20Books/AUTOMATE%20%20THE%20BORING%20STUFF%20WITH%20PYTHON.pdf)
 
-0. []()
-1. []()
-2. []()
+1. [Beginning Programming with Python For Dummies](https://github.com/FatoomRe/Tech-Books/blob/54e31156f5dd814ecf955c6c882d5a2c11082c82/Python%20Books/Beginning%20Programming%20with%20Python%20For%20Dummies%20Mueller%2C%20John%20Paul%20%5BSRG%5D.pdf)
 
-<h3>🔶 Java</h3> 
+2. [Learning Python](https://github.com/FatoomRe/Tech-Books/blob/54e31156f5dd814ecf955c6c882d5a2c11082c82/Python%20Books/Learning%20Python%2C%205th%20Edition.pdf)
 
-(will be added soon) 🔜
+3. [Python_Cookbook](https://github.com/FatoomRe/Tech-Books/blob/54e31156f5dd814ecf955c6c882d5a2c11082c82/Python%20Books/Python_Cookbook_3rd_Edition.pdf)
 
-0. []()
-1. []()
-2. []()
+4. [Code in Python (Arabic)](https://github.com/FatoomRe/Tech-Books/blob/54e31156f5dd814ecf955c6c882d5a2c11082c82/Python%20Books/code-in-python-3-ar-v1.0.0.pdf)
 
 -------
 
