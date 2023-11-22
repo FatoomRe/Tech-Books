@@ -25,6 +25,8 @@
 
 3. [The Phoenix Project - A novel about IT, DevOps, and Helping your Business Win](https://github.com/FatoomRe/Tech-Books/blob/b5a0ceac639454bb35271cff429e9d920b5204a8/RandomBooks/PhoenixProjectExcerpt.pdf)
 
+4. [The Unicorn Project - A novel about Developers, Digital Disruption, and Thriving in the age of Data](https://github.com/FatoomRe/Tech-Books/blob/2b802c1b0fed5eaf621f5198f796196e8488ca33/RandomBooks/The%20Unicorn%20Project%20-%20A%20novel%20about%20Developers%2C%20Digital%20Disrupution%2C%20and%20Thriving%20in%20the%20age%20of%20Data.pdf)
+
 
 
 ## 1. Web Development Books 🌐
