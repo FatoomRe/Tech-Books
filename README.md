@@ -259,6 +259,12 @@
 4. [Beginning Design for 3D Printing](https://github.com/FatoomRe/Tech-Books/blob/b8887e076d76ad3b19ee810a344817a9ce0e044d/3D%20Printing/Beginning%20Design%20for%203D%20Printing.pdf)
 
 5. [Design-for-3D-Printing](https://github.com/FatoomRe/Tech-Books/blob/a75dea7b40a6242580e623c532e107d1321e3a0d/3D%20Printing/Design-for-3D-Printing.pdf)
+
+6. [Livro Pratical 3D Printers](https://github.com/FatoomRe/Tech-Books/blob/3e008871eb7bd4f8d98006333e312321271f5615/3D%20Printing%20Books/Livro%20Pratical%203D%20Printers.pdf)
+
+7. [Mastering 3D Printing A Guide to Modeling, Printing, and Prototyping](https://github.com/FatoomRe/Tech-Books/blob/3e008871eb7bd4f8d98006333e312321271f5615/3D%20Printing%20Books/Mastering%203D%20Printing%20A%20Guide%20to%20Modeling%2C%20Printing%2C%20and%20Prototyping.pdf)
+
+8. [Mastering 3D Printing](https://github.com/FatoomRe/Tech-Books/blob/3e008871eb7bd4f8d98006333e312321271f5615/3D%20Printing%20Books/mastring%203d%20printing.pdf)
  
 
 ## 10. Internet of Things Books 🛰️ 
