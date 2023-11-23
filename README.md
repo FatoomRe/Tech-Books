@@ -185,6 +185,19 @@
 
   1. [Linux Basics for Hackers](https://github.com/FatoomRe/Computer_Science_Books/blob/0810bd5c9073b5eea2ff697eefe4a457b646aa57/Cybersecurity%20Books/Linux%20Basics%20for%20Hackers%20Getting%20Started%20with%20Networking%2C%20Scripting%2C%20and%20Security%20in%20Kali%20(OccupyTheWeb)%20(z-lib.org).pdf)
 
+  2. [Black hat python - python programming got hackers and pentesters](https://github.com/FatoomRe/Tech-Books/blob/e35da1fe9d9b5026c131c8dac59178a7bc2856a1/Cybersecurity%20Books/Black%20hat%20python.pdf)
+
+  3. [Computer Network Security and Cyber Ethics.](https://github.com/FatoomRe/Tech-Books/blob/e35da1fe9d9b5026c131c8dac59178a7bc2856a1/Cybersecurity%20Books/Computer%20Network%20Security%20and%20Cyber%20Ethics.pdf)
+
+  4. [Cyber Security Essentials](https://github.com/FatoomRe/Tech-Books/blob/e35da1fe9d9b5026c131c8dac59178a7bc2856a1/Cybersecurity%20Books/Cyber%20Security%20Essentials.pdf)
+
+  5. [Cybersecurity_ The Beginner's Guide](https://github.com/FatoomRe/Tech-Books/blob/e35da1fe9d9b5026c131c8dac59178a7bc2856a1/Cybersecurity%20Books/Cybersecurity_%20The%20Beginner's%20Guide.pdf)
+
+  6. [Defensive Security Handbook_ Best Practice](https://github.com/FatoomRe/Tech-Books/blob/e35da1fe9d9b5026c131c8dac59178a7bc2856a1/Cybersecurity%20Books/Defensive%20Security%20Handbook_%20Best%20Practice%20-%20Lee%20Brotherston.pdf)
+
+  7. [HACKING - Computer Hacking, Security Testing, Penetration Testing, and Basic Security](https://github.com/FatoomRe/Tech-Books/blob/e35da1fe9d9b5026c131c8dac59178a7bc2856a1/Cybersecurity%20Books/HACKING%20-%20Computer%20Hacking%2C%20Security%20Testing%2C%20Peneration%20Testing%20and%20Basic%20Security.pdf)
+
+  8. [Hacking-the-art-of-exploitation](https://github.com/FatoomRe/Tech-Books/blob/e35da1fe9d9b5026c131c8dac59178a7bc2856a1/Cybersecurity%20Books/hacking-the-art-of-exploitation.pdf)
 
 
 ## 5. Artificial Intelligence Books 🧠
