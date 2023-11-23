@@ -251,6 +251,18 @@
  5. [Arduino Workshop](https://github.com/FatoomRe/Tech-Books/blob/2c2f118f20a658bff5b6e1f0e3193fd3ff06efc7/Arduino%20Books/Arduino%20Workshop.pdf)
 
  6. [Python Programming for Arduino](https://github.com/FatoomRe/Tech-Books/blob/5bbd299bbfe9e9fc9eb4d67659b8e9c577b2f49f/Arduino%20Books/Python%20Programming%20for%20Arduino.pdf)
+
+ 7. [Building Arduino Projects for the Internet of Things](https://github.com/FatoomRe/Tech-Books/blob/432524cb1ea7f420ece0d482d27504e79560008f/Arduino%20Books/Building%20Arduino%20Projects%20for%20the%20Internet%20of%20Things.pdf)
+
+ 8. [Getting Started with Arduino](https://github.com/FatoomRe/Tech-Books/blob/432524cb1ea7f420ece0d482d27504e79560008f/Arduino%20Books/Getting%20Started%20with%20Arduino.pdf)
+
+ 9. [Getting Started with Sensors Measure the World with Electronics, Arduino, and Raspberry Pi](https://github.com/FatoomRe/Tech-Books/blob/432524cb1ea7f420ece0d482d27504e79560008f/Arduino%20Books/Getting%20Started%20with%20Sensors%20Measure%20the%20World%20with%20Electronics%2C%20Arduino%2C%20and%20Raspberry%20Pi%20(Kimmo%20Karvinen%2C%20Tero%20Karvinen)%20(z-lib.org).pdf)
+
+ 10. [Hacking Electronics Learning Electronics with Arduino and Raspberry Pi](https://github.com/FatoomRe/Tech-Books/blob/432524cb1ea7f420ece0d482d27504e79560008f/Arduino%20Books/Hacking%20Electronics%20Learning%20Electronics%20with%20Arduino%20and%20Raspberry%20Pi%20(Simon%20Monk)%20(z-lib.org).pdf)
+
+ 11. [Programming Your Home Automate with Arduino, Android, and Your Computer](https://github.com/FatoomRe/Tech-Books/blob/432524cb1ea7f420ece0d482d27504e79560008f/Arduino%20Books/Programming%20Your%20Home%20Automate%20with%20Arduino%2C%20Android%2C%20and%20Your%20Computer%20(Mike%20Riley)%20(z-lib.org).pdf)
+
+ 12. [Programming with Arduino](https://github.com/FatoomRe/Tech-Books/blob/432524cb1ea7f420ece0d482d27504e79560008f/Arduino%20Books/Programming%20with%20Arduino.pdf)
     
 
 ## 8. Drones  Books 🚁
