@@ -462,17 +462,17 @@
 
 <h3> 🧮 Mathematics Game Programming</h3>
 
-(Beginning Mathematics for Game Programming)🔻
+Beginning Mathematics for Game Programming 🔻
 
-0. []()
+0. [Foundations of Game Engine Development, Volume 1 Mathematics](https://github.com/FatoomRe/Tech-Books/blob/f703163f864be70746687fcc6e693d69e7cb0ba1/GameDev%20Books/Beginning%20Mathematics%20for%20Game%20Programming/Foundations%20of%20Game%20Engine%20Development%2C%20Volume%201%20Mathematics.pdf)
 
-1. []()
+1. [Mathematics for 3D Game Programming and Computer Graphics, 3rd Edition](https://github.com/FatoomRe/Tech-Books/blob/f703163f864be70746687fcc6e693d69e7cb0ba1/GameDev%20Books/Beginning%20Mathematics%20for%20Game%20Programming/Mathematics%20for%203D%20Game%20Programming%20and%20Computer%20Graphics%2C%203rd%20Edition%2C%202011.pdf)
 
-(Advanced Mathematics for Game Programming)🔻
+Advanced Mathematics for Game Programming 🔻
 
-0. []()
+0. [Computational Geometry](https://github.com/FatoomRe/Tech-Books/blob/f703163f864be70746687fcc6e693d69e7cb0ba1/GameDev%20Books/Advanced%20Mathematics%20for%20Game%20Programming/Computational%20Geometry.pdf)
 
-1. []()
+1. [Geometric Tools for Computer Graphics](https://github.com/FatoomRe/Tech-Books/blob/f703163f864be70746687fcc6e693d69e7cb0ba1/GameDev%20Books/Advanced%20Mathematics%20for%20Game%20Programming/Geometric%20Tools%20for%20Computer%20Graphics.pdf)
 
 ## 13. Programming Languages </>
 
