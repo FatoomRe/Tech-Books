@@ -227,6 +227,8 @@
 
   11. [speech and language processing](https://github.com/FatoomRe/Tech-Books/blob/474bd6d4767389a445525d04133a2f47d0121a07/AI%20Books/speech%20and%20language%20processing.pdf)
 
+  12. [Artificial Intelligence A Modern Approach](https://github.com/FatoomRe/Tech-Books/blob/4621b63c5e533f515c10147cf4c01e39a1e0ca5b/AI%20Books/Artificial%20Intelligence%20A%20Modern%20Approach%20(3rd%20Edition).pdf)
+
 
 
 ## 6. Robotics Books 🤖
