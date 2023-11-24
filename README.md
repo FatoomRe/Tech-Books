@@ -452,7 +452,28 @@
 14. [Making Games with Python & Pygame](https://github.com/FatoomRe/Tech-Books/blob/1aa74766e3f42423c66f8294a27d727e1686cd03/GameDev%20Books/makinggames.pdf)
 
 15. [Beginning 3D Game Development with Unity 4_ All-in-one, multi-platform game development](https://github.com/FatoomRe/Tech-Books/blob/1aa74766e3f42423c66f8294a27d727e1686cd03/GameDev%20Books/Beginning%203D%20Game%20Development%20with%20Unity%204_%20All-in-one%2C%20multi-platform%20game%20development%20(1)%20(1).pdf)
-   
+
+<h3> 👾 Computer Graphics</h3>
+(will be added soon) 🔜
+
+0. []()
+
+1. []()
+
+<h3> 🧮 Mathematics Game Programming</h3>
+
+(Beginning Mathematics for Game Programming)🔻
+
+0. []()
+
+1. []()
+
+(Advanced Mathematics for Game Programming)🔻
+
+0. []()
+
+1. []()
+
 ## 13. Programming Languages </>
 
 <h3>🔶 Python</h3> 
