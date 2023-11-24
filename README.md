@@ -421,12 +421,37 @@
 
 ## 12. Game Development Books 👾 
 
-(will be added soon) 🔜
+0. [Game-design-theory-and-practice](https://github.com/FatoomRe/Tech-Books/blob/1aa74766e3f42423c66f8294a27d727e1686cd03/GameDev%20Books/5-game-design-theory-and-practice.pdf)
 
-0. []()
-1. []()
-2. []()
+1. [Artificial Intelligence for Games](https://github.com/FatoomRe/Tech-Books/blob/1aa74766e3f42423c66f8294a27d727e1686cd03/GameDev%20Books/Artificial%20Intelligence%20for%20Games.pdf)
 
+2. [Beginning_C++_Game_Programming_-_Second_Edition](https://github.com/FatoomRe/Tech-Books/blob/1aa74766e3f42423c66f8294a27d727e1686cd03/GameDev%20Books/Beginning_C%2B%2B_Game_Programming_-_Second_Edition.pdf)
+
+3. [Game Coding Complete - 4th Edition](https://github.com/FatoomRe/Tech-Books/blob/1aa74766e3f42423c66f8294a27d727e1686cd03/GameDev%20Books/Game%20Coding%20Complete%20-%204th%20Edition.pdf)
+
+4. [Game Engine Architecture](https://github.com/FatoomRe/Tech-Books/blob/1aa74766e3f42423c66f8294a27d727e1686cd03/GameDev%20Books/Game%20Engine%20Architecture.pdf)
+
+5. [Game Programming Algorithms and Techniques](https://github.com/FatoomRe/Tech-Books/blob/1aa74766e3f42423c66f8294a27d727e1686cd03/GameDev%20Books/Game%20Programming%20Algorithms%20and%20Techniques.pdf)
+
+6. [Game Programming Patterns](https://github.com/FatoomRe/Tech-Books/blob/1aa74766e3f42423c66f8294a27d727e1686cd03/GameDev%20Books/Game%20Programming%20Patterns.pdf)
+
+7. [Multiplayer Game Programming](https://github.com/FatoomRe/Tech-Books/blob/1aa74766e3f42423c66f8294a27d727e1686cd03/GameDev%20Books/Multiplayer%20Game%20Programming.pdf)
+
+8. [Unity 5 Game Optimization](https://github.com/FatoomRe/Tech-Books/blob/1aa74766e3f42423c66f8294a27d727e1686cd03/GameDev%20Books/Unity%205%20Game%20Optimization.pdf)
+
+9. [Unity AI Game Programming - Second Edition](https://github.com/FatoomRe/Tech-Books/blob/1aa74766e3f42423c66f8294a27d727e1686cd03/GameDev%20Books/Unity%20AI%20Game%20Programming%20-%20Second%20Edition.pdf)
+
+10. [Unity In Action](https://github.com/FatoomRe/Tech-Books/blob/1aa74766e3f42423c66f8294a27d727e1686cd03/GameDev%20Books/Unity%20In%20Action.pdf)
+
+11. [Unity3D Manual](https://github.com/FatoomRe/Tech-Books/blob/1aa74766e3f42423c66f8294a27d727e1686cd03/GameDev%20Books/Unity3D%20Manual.pdf)
+
+12. [Unity Android Game Development by Example](https://github.com/FatoomRe/Tech-Books/blob/1aa74766e3f42423c66f8294a27d727e1686cd03/GameDev%20Books/ZDI1NmNlNGE0ZjY3MDQ1NTllYjY3OGM2NjZiMWY4ZTYyMWU4ZDcyNg%3D%3D.pdf)
+
+13. [2D Game Development From Zero to Hero](https://github.com/FatoomRe/Tech-Books/blob/1aa74766e3f42423c66f8294a27d727e1686cd03/GameDev%20Books/ee0225ec966b4910a0882f4e388c8bdf.pdf)
+
+14. [Making Games with Python & Pygame](https://github.com/FatoomRe/Tech-Books/blob/1aa74766e3f42423c66f8294a27d727e1686cd03/GameDev%20Books/makinggames.pdf)
+
+15. [Beginning 3D Game Development with Unity 4_ All-in-one, multi-platform game development](https://github.com/FatoomRe/Tech-Books/blob/1aa74766e3f42423c66f8294a27d727e1686cd03/GameDev%20Books/Beginning%203D%20Game%20Development%20with%20Unity%204_%20All-in-one%2C%20multi-platform%20game%20development%20(1)%20(1).pdf)
    
 ## 13. Programming Languages </>
 
