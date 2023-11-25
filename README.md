@@ -15,6 +15,8 @@
 
   4. [The Fourth Age Smart Robots, Conscious Computers, and the Future of Humanity](https://github.com/FatoomRe/Tech-Books/blob/2a9c1f7a19849b596657baf39bc034e48b44865a/RandomBooks/The%20Fourth%20Age%20Smart%20Robots%2C%20Conscious%20Computers%2C%20and%20the%20Future%20of%20Humanity%20(Byron%20Reese)%20(z-lib.org).pdf)
 
+  5. [The Pragmatic Programmer](https://github.com/FatoomRe/Tech-Books/blob/7c272228f7e508b75da94abc7e222c337078c610/Random%20Books/The%20Pragmatic%20Programmer.pdf)
+
 <h4>Tech-Novels 📖</h4> 
 
 0. [Ghost in the Wires - My Adventures as the World's Most Wanted Hacker](https://github.com/FatoomRe/Tech-Books/blob/b5a0ceac639454bb35271cff429e9d920b5204a8/RandomBooks/Ghost%20in%20the%20Wires%20My%20Adventures%20as%20the%20Worlds%20Most%20Wanted%20Hacker%20%20issue.pdf)
