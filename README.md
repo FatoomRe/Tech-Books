@@ -454,11 +454,18 @@
 15. [Beginning 3D Game Development with Unity 4_ All-in-one, multi-platform game development](https://github.com/FatoomRe/Tech-Books/blob/1aa74766e3f42423c66f8294a27d727e1686cd03/GameDev%20Books/Beginning%203D%20Game%20Development%20with%20Unity%204_%20All-in-one%2C%20multi-platform%20game%20development%20(1)%20(1).pdf)
 
 <h3> 👾 Computer Graphics</h3>
-(will be added soon) 🔜
 
-0. []()
+0. [Fundamentals of Computer Graphics, Fourth Edition](https://github.com/FatoomRe/Tech-Books/blob/9edc018996c43d028f405304c7420b89e864a8c1/GameDev%20Books/Computer%20Graphics/Fundamentals%20of%20Computer%20Graphics%2C%20Fourth%20Edition.pdf)
 
-1. []()
+1. [GPU+Gems+1](https://github.com/FatoomRe/Tech-Books/blob/9edc018996c43d028f405304c7420b89e864a8c1/GameDev%20Books/Computer%20Graphics/GPU%2BGems%2B1.pdf)
+
+2. [GPU+Gems+2](https://github.com/FatoomRe/Tech-Books/blob/9edc018996c43d028f405304c7420b89e864a8c1/GameDev%20Books/Computer%20Graphics/GPU%2BGems%2B2.pdf)
+
+3. [OpenGL Programming Guide 9th Edition](https://github.com/FatoomRe/Tech-Books/blob/9edc018996c43d028f405304c7420b89e864a8c1/GameDev%20Books/Computer%20Graphics/OpenGL%20Programming%20Guide%209th%20Edition.pdf)
+
+4. [Physically Based Rendering](https://github.com/FatoomRe/Tech-Books/blob/9edc018996c43d028f405304c7420b89e864a8c1/GameDev%20Books/Computer%20Graphics/Physically%20Based%20Rendering.pdf)
+
+5. [Real Time Rendering](https://github.com/FatoomRe/Tech-Books/blob/9edc018996c43d028f405304c7420b89e864a8c1/GameDev%20Books/Computer%20Graphics/Real%20Time%20Rendering.pdf)
 
 <h3> 🧮 Mathematics Game Programming</h3>
 
