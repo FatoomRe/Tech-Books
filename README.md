@@ -419,7 +419,7 @@
 34. [The Definitive Guide to MongoDB](https://github.com/FatoomRe/Tech-Books/blob/da4041448f3dbfc41146c9e86bcfcc04c19b1f94/DataSci%20Books/The%20Definitive%20Guide%20to%20MongoDB.pdf)
 
 
-## 12. Game Development Books 👾 
+## 12. Game Development Books 🎮
 
 0. [Game-design-theory-and-practice](https://github.com/FatoomRe/Tech-Books/blob/1aa74766e3f42423c66f8294a27d727e1686cd03/GameDev%20Books/5-game-design-theory-and-practice.pdf)
 
