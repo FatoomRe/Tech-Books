@@ -498,6 +498,18 @@ Advanced Math for Game Programming 🔻
 4. [Code in Python (Arabic)](https://github.com/FatoomRe/Tech-Books/blob/54e31156f5dd814ecf955c6c882d5a2c11082c82/Python%20Books/code-in-python-3-ar-v1.0.0.pdf)
 
 
+<h3>🔶 Java</h3> 
+
+0. [Beginning Java](https://github.com/FatoomRe/Tech-Books/blob/8dd52f435990b508082401efa253682dab446a9b/Java%20Books/Beginning%20Java%207.pdf)
+
+1. [Head_First_Java_Second_Edition](https://github.com/FatoomRe/Tech-Books/blob/8dd52f435990b508082401efa253682dab446a9b/Java%20Books/Head_First_Java_Second_Edition.pdf)
+
+2. [Java All-in-One For Dummies (Doug Lowe](https://github.com/FatoomRe/Tech-Books/blob/8dd52f435990b508082401efa253682dab446a9b/Java%20Books/Java%20All-in-One%20For%20Dummies%20(Doug%20Lowe).pdf)
+
+3. [Java Programming For Beginners - A Simple Start to Java Programming](https://github.com/FatoomRe/Tech-Books/blob/8dd52f435990b508082401efa253682dab446a9b/Java%20Books/Java_%20Java%20Programming%20For%20Beginners%20-%20A%20Simple%20Start%20to%20Java%20Programming.pdf)
+
+4. [Teach Yourself Java in 21 Days](https://github.com/FatoomRe/Tech-Books/blob/8dd52f435990b508082401efa253682dab446a9b/Java%20Books/Teach%20Yourself%20Java%20in%2021%20Days.pdf)
+
 <h3>🔶 C++</h3> 
 
 0. [Beginning C++ Programming](https://github.com/FatoomRe/Tech-Books/blob/c26065716428be5d9cb88de77f6294df86801a57/C%2B%2BBooks/Beginning%20C%2B%2B%20Programming.pdf)
