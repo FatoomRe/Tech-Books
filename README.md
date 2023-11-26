@@ -17,6 +17,14 @@
 
   5. [The Pragmatic Programmer](https://github.com/FatoomRe/Tech-Books/blob/7c272228f7e508b75da94abc7e222c337078c610/Random%20Books/The%20Pragmatic%20Programmer.pdf)
 
+  6. [The Mythical Man-Month(essays on Software Engineering)](https://github.com/FatoomRe/Tech-Books/blob/4385b913962110b5c0937dd7b5a09706014fde56/Random%20Books/The%20Mythical%20Man-Month(essays%20on%20Software%20Engineering).pdf)
+
+  7. [The Practice of Programming](https://github.com/FatoomRe/Tech-Books/blob/4385b913962110b5c0937dd7b5a09706014fde56/Random%20Books/The%20Practice%20of%20Programming.pdf)
+
+  8. [Introduction to Algorithms 3rd.Editio](https://github.com/FatoomRe/Tech-Books/blob/4385b913962110b5c0937dd7b5a09706014fde56/Random%20Books/Introduction.to.Algorithms.3rd.Editio.pdf)
+
+  9. [Algorithms, 4th ed](https://github.com/FatoomRe/Tech-Books/blob/4385b913962110b5c0937dd7b5a09706014fde56/Random%20Books/Algorithms%2C%204th%20ed..pdf)
+
 <h4>Tech-Novels 📖</h4> 
 
 0. [Ghost in the Wires - My Adventures as the World's Most Wanted Hacker](https://github.com/FatoomRe/Tech-Books/blob/b5a0ceac639454bb35271cff429e9d920b5204a8/RandomBooks/Ghost%20in%20the%20Wires%20My%20Adventures%20as%20the%20Worlds%20Most%20Wanted%20Hacker%20%20issue.pdf)
