@@ -159,6 +159,26 @@
 
   6. [Practical-Flutter](https://github.com/FatoomRe/Computer_Science_Books/blob/60c95b2f2bb90294424e7afe80d5b9b01e06dc2b/Flutter%20Books/Practical-Flutter-www.android-learn.ir.pdf)
 
+  7. [Beginning Flutter 3.0 with Dart. A Beginner to Pro. Learn how to build Advanced Flutter Apps](https://github.com/FatoomRe/Tech-Books/blob/d90733d79a6532b00f3ff255a10c1a953e9faa22/Flutter%20Books/Beginning%20Flutter%203.0%20with%20Dart.%20A%20Beginner%20to%20Pro.%20Learn%20how%20to%20build%20Advanced%20Flutter%20Apps.pdf)
+
+  8. [Building Games with Flutter The ultimate guide to creating multiplatform games using the Flame engine in Flutter](https://github.com/FatoomRe/Tech-Books/blob/d90733d79a6532b00f3ff255a10c1a953e9faa22/Flutter%20Books/Building%20Games%20with%20Flutter%20The%20ultimate%20guide%20to%20creating%20multiplatform%20games%20using%20the%20Flame%20engine%20in%20Flutter%203.pdf)
+
+  9. [Cross-Platform UIs with Flutter Unlock the ability to create native multiplatform UIs using a single code base with Flutter](https://github.com/FatoomRe/Tech-Books/blob/d90733d79a6532b00f3ff255a10c1a953e9faa22/Flutter%20Books/Cross-Platform%20UIs%20with%20Flutter%20Unlock%20the%20ability%20to%20create%20native%20multiplatform%20UIs%20using%20a%20single%20code%20base%20with%20Flutter%203.pdf)
+
+  10. [Dart Apprentice](https://github.com/FatoomRe/Tech-Books/blob/d90733d79a6532b00f3ff255a10c1a953e9faa22/Flutter%20Books/Dart%20Apprentice.pdf)
+
+  11. [Data Structures & Algorithms in Dart](https://github.com/FatoomRe/Tech-Books/blob/d90733d79a6532b00f3ff255a10c1a953e9faa22/Flutter%20Books/Data%20Structures%20%26%20Algorithms%20in%20Dart.pdf)
+
+  12. [Flutter Cookbook Over 100 Proven Techniques and Solutions for App Development with Flutter 2.2 and Dart](https://github.com/FatoomRe/Tech-Books/blob/d90733d79a6532b00f3ff255a10c1a953e9faa22/Flutter%20Books/Flutter%20Cookbook%20Over%20100%20Proven%20Techniques%20and%20Solutions%20for%20App%20Development%20with%20Flutter%202.2%20and%20Dart.pdf)
+
+  13. [Flutter Projects](https://github.com/FatoomRe/Tech-Books/blob/d90733d79a6532b00f3ff255a10c1a953e9faa22/Flutter%20Books/Flutter%20Projects.pdf)
+
+  14. [Flutter® For Dummies®](https://github.com/FatoomRe/Tech-Books/blob/d90733d79a6532b00f3ff255a10c1a953e9faa22/Flutter%20Books/Flutter%C2%AE%20For%20Dummies%C2%AE.pdf)
+
+  15. [Google Flutter Mobile Development Quick Start Guide](https://github.com/FatoomRe/Tech-Books/blob/d90733d79a6532b00f3ff255a10c1a953e9faa22/Flutter%20Books/Google%20Flutter%20Mobile%20Development%20Quick%20Start%20Guide.pdf)
+
+  16. [Modern App Development with Dart and Flutter 2 A Comprehensive Introduction to Flutter](https://github.com/FatoomRe/Tech-Books/blob/d90733d79a6532b00f3ff255a10c1a953e9faa22/Flutter%20Books/Modern%20App%20Development%20with%20Dart%20and%20Flutter%202%20A%20Comprehensive%20Introduction%20to%20Flutter.pdf)
+
 <h3>🔷 React Native </h3>
 
   0. [React.Native.for.Mobile.Development.2nd.Edition](https://github.com/FatoomRe/Tech-Books/blob/44e7b450deb2abd43428980156b465a9f0077d8c/React%20Native%20Books/Apress.React.Native.for.Mobile.Development.2nd.Edition.www.EBooksWorld.ir.pdf)
