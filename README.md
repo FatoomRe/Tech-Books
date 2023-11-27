@@ -138,6 +138,8 @@
 
   6. [Learning kotlin](https://github.com/FatoomRe/Tech-Books/blob/cefd8f55d4b08b671473f17640ea3390c2607105/Kotlin%20Books/kotlin.pdf)
 
+  7. [Beginning Android Development With Kotlin (2022-2023)](https://github.com/FatoomRe/Tech-Books/blob/88b119dbd266d00122ab7a8213359a82da522126/Kotlin%20Books/Beginning%20Android%20Development%20With%20Kotlin%20(2022-2023).pdf)
+
 -------
 
 <h3>Cross-Platforms Apps: </h3>
