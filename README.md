@@ -231,6 +231,8 @@
 
   8. [Hacking-the-art-of-exploitation](https://github.com/FatoomRe/Tech-Books/blob/e35da1fe9d9b5026c131c8dac59178a7bc2856a1/Cybersecurity%20Books/hacking-the-art-of-exploitation.pdf)
 
+  9. [The Cyber Survival Manual](https://github.com/FatoomRe/Tech-Books/blob/b4dbf75700337d31fcd6694f9e1f18f1f2250934/Cybersecurity%20Books/The%20Cyber%20Survival%20Manual.pdf)
+
 
 ## 5. Artificial Intelligence Books 🧠
 
