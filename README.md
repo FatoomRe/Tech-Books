@@ -37,6 +37,8 @@
 
 4. [The Unicorn Project - A novel about Developers, Digital Disruption, and Thriving in the age of Data](https://github.com/FatoomRe/Tech-Books/blob/2b802c1b0fed5eaf621f5198f796196e8488ca33/RandomBooks/The%20Unicorn%20Project%20-%20A%20novel%20about%20Developers%2C%20Digital%20Disrupution%2C%20and%20Thriving%20in%20the%20age%20of%20Data.pdf)
 
+5. [Hackers Heroes of the computer revolution](https://github.com/FatoomRe/Tech-Books/blob/f4f3fd97b1307c14ec912f982f87e2eb9b57626c/Random%20Books/Hackers%20Heroes%20of%20the%20computer%20revolution.pdf)
+
 
 
 ## 1. Web Development Books 🌐
