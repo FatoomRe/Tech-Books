@@ -209,13 +209,31 @@
 
 <h3>⚫️ Introductory </h3>
 
-0. []()
+0. [Bright Ideas for UX Designers](https://github.com/FatoomRe/Tech-Books/blob/2541eaf1734b914b47f20e44ee2e11c2522969c7/UIUX%20Books/Introductory/Bright%20Ideas%20for%20UX%20Designers.pdf)
 
-1. []()
+1. [Converting The Believers - How to Turn Website Visitors into Buyers](https://github.com/FatoomRe/Tech-Books/blob/2541eaf1734b914b47f20e44ee2e11c2522969c7/UIUX%20Books/Introductory/Converting%20The%20Believers%20-%20How%20to%20Turn%20Website%20Visitors%20into%20Buyers.pdf)
 
-2. []()
+2. [Field Guide to Human-Centered Design](https://github.com/FatoomRe/Tech-Books/blob/2541eaf1734b914b47f20e44ee2e11c2522969c7/UIUX%20Books/Introductory/Field%20Guide%20to%20Human-Centered%20Design.pdf)
 
-3. []()
+3. [Human Computer Interaction](https://github.com/FatoomRe/Tech-Books/blob/2541eaf1734b914b47f20e44ee2e11c2522969c7/UIUX%20Books/Introductory/Human%20Computer%20Interaction.pdf)
+
+4. [Introduction to Good Usability](https://github.com/FatoomRe/Tech-Books/blob/2541eaf1734b914b47f20e44ee2e11c2522969c7/UIUX%20Books/Introductory/Introduction%20to%20Good%20Usability.pdf)
+
+5. [Pixel Perfect Precision](https://github.com/FatoomRe/Tech-Books/blob/2541eaf1734b914b47f20e44ee2e11c2522969c7/UIUX%20Books/Introductory/Pixel%20Perfect%20Precision.pdf)
+
+6. [Taking your Talent to the Web](https://github.com/FatoomRe/Tech-Books/blob/2541eaf1734b914b47f20e44ee2e11c2522969c7/UIUX%20Books/Introductory/Taking%20your%20Talent%20to%20the%20Web.pdf)
+
+7. [The Elements of User Experience - User-Centered Design for the Web and Beyond](https://github.com/FatoomRe/Tech-Books/blob/2541eaf1734b914b47f20e44ee2e11c2522969c7/UIUX%20Books/Introductory/The%20Elements%20of%20User%20Experience%20-%20User-Centered%20Design%20for%20the%20Web%20and%20Beyond.pdf)
+
+8. [The Field Guide to Self-Employed Web Design](https://github.com/FatoomRe/Tech-Books/blob/2541eaf1734b914b47f20e44ee2e11c2522969c7/UIUX%20Books/Introductory/The%20Field%20Guide%20to%20Self-Employed%20Web%20Design.pdf)
+
+9. [The Indispensable UX Designer](https://github.com/FatoomRe/Tech-Books/blob/2541eaf1734b914b47f20e44ee2e11c2522969c7/UIUX%20Books/Introductory/The%20Indispensable%20UX%20Designer.pdf)
+
+10. [The User Experience Guide Book for Product Managers](https://github.com/FatoomRe/Tech-Books/blob/2541eaf1734b914b47f20e44ee2e11c2522969c7/UIUX%20Books/Introductory/The%20User%20Experience%20Guide%20Book%20for%20Product%20Managers.pdf)
+
+11. [UX Design for Startups](https://github.com/FatoomRe/Tech-Books/blob/2541eaf1734b914b47f20e44ee2e11c2522969c7/UIUX%20Books/Introductory/UX%20Design%20for%20Startups.pdf)
+
+12. [UX Storytellers - Connecting the Dots](https://github.com/FatoomRe/Tech-Books/blob/2541eaf1734b914b47f20e44ee2e11c2522969c7/UIUX%20Books/Introductory/UX%20Storytellers%20-%20Connecting%20the%20Dots.pdf)
 
 <h3>⚪️ Collaboration </h3>
 
