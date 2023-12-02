@@ -197,7 +197,7 @@
 
   6. [React_Native_cookbook](https://github.com/FatoomRe/Tech-Books/blob/44e7b450deb2abd43428980156b465a9f0077d8c/React%20Native%20Books/react_native_cookbook.pdf)
 
-<h3>🔷 Xamarin </h3>
+<h3>♦️ Xamarin </h3>
 
   0. [Creating Mobile Apps with Xamarin Forms](https://github.com/FatoomRe/Tech-Books/blob/5372555bf83bc12fbc78d9abe390c6deec40015a/Xamarin%20Books/Microsoft_Press_eBook_CreatingMobileAppswithXamarinForms_PDF.pdf)
 
@@ -207,11 +207,25 @@
 
 ## 3. UI/UX Books 🎨 
 
-(will be added soon) 🔜
+<h3>⚫️ Introductory </h3>
 
 0. []()
+
 1. []()
+
 2. []()
+
+3. []()
+
+<h3>⚪️ Collaboration </h3>
+
+0. [Building Ui Mockups Developers Won't Hate](https://github.com/FatoomRe/Tech-Books/blob/5d5f87d1fbc434515dd9078c9d2dd758de35350b/UIUX%20Books/Collaboration/Building%20Ui%20Mockups%20Developers%20Wont%20Hate.pdf)
+
+1. [Design Collaboration In The Enterprise 1](https://github.com/FatoomRe/Tech-Books/blob/5d5f87d1fbc434515dd9078c9d2dd758de35350b/UIUX%20Books/Collaboration/Design%20Collaboration%20In%20The%20Enterprise%201.pdf)
+
+2. [Design Collaboration In The Enterprise 2](https://github.com/FatoomRe/Tech-Books/blob/5d5f87d1fbc434515dd9078c9d2dd758de35350b/UIUX%20Books/Collaboration/Design%20Collaboration%20In%20The%20Enterprise%202.pdf)
+
+3. [Designers Guide to Collaborating with Devs](https://github.com/FatoomRe/Tech-Books/blob/5d5f87d1fbc434515dd9078c9d2dd758de35350b/UIUX%20Books/Collaboration/Designers%20Guide%20to%20Collaborating%20with%20Devs.pdf)
 
 ## 4. Cybersecurity Books 🥷
 
