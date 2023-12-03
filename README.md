@@ -236,7 +236,7 @@
 12. [UX Storytellers - Connecting the Dots](https://github.com/FatoomRe/Tech-Books/blob/2541eaf1734b914b47f20e44ee2e11c2522969c7/UIUX%20Books/Introductory/UX%20Storytellers%20-%20Connecting%20the%20Dots.pdf)
 
 <h4>🟠 User Interface </h4>
-It will be added soon 🔜
+will be added soon 🔜
 
 0. []()
 
@@ -245,7 +245,7 @@ It will be added soon 🔜
 2. []()
 
 <h4>🔴 User Experience </h4>
-It will be added soon 🔜
+will be added soon 🔜
 
 0. []()
 
@@ -255,13 +255,11 @@ It will be added soon 🔜
 
 <h4>🟡 Collaboration </h4>
 
-0. [Building Ui Mockups Developers Won't Hate](https://github.com/FatoomRe/Tech-Books/blob/5d5f87d1fbc434515dd9078c9d2dd758de35350b/UIUX%20Books/Collaboration/Building%20Ui%20Mockups%20Developers%20Wont%20Hate.pdf)
+0. [Design Collaboration In The Enterprise 1](https://github.com/FatoomRe/Tech-Books/blob/5d5f87d1fbc434515dd9078c9d2dd758de35350b/UIUX%20Books/Collaboration/Design%20Collaboration%20In%20The%20Enterprise%201.pdf)
 
-1. [Design Collaboration In The Enterprise 1](https://github.com/FatoomRe/Tech-Books/blob/5d5f87d1fbc434515dd9078c9d2dd758de35350b/UIUX%20Books/Collaboration/Design%20Collaboration%20In%20The%20Enterprise%201.pdf)
+1. [Design Collaboration In The Enterprise 2](https://github.com/FatoomRe/Tech-Books/blob/5d5f87d1fbc434515dd9078c9d2dd758de35350b/UIUX%20Books/Collaboration/Design%20Collaboration%20In%20The%20Enterprise%202.pdf)
 
-2. [Design Collaboration In The Enterprise 2](https://github.com/FatoomRe/Tech-Books/blob/5d5f87d1fbc434515dd9078c9d2dd758de35350b/UIUX%20Books/Collaboration/Design%20Collaboration%20In%20The%20Enterprise%202.pdf)
-
-3. [Designers Guide to Collaborating with Developers](https://github.com/FatoomRe/Tech-Books/blob/5d5f87d1fbc434515dd9078c9d2dd758de35350b/UIUX%20Books/Collaboration/Designers%20Guide%20to%20Collaborating%20with%20Devs.pdf)
+2. [Designers Guide to Collaborating with Developers](https://github.com/FatoomRe/Tech-Books/blob/5d5f87d1fbc434515dd9078c9d2dd758de35350b/UIUX%20Books/Collaboration/Designers%20Guide%20to%20Collaborating%20with%20Devs.pdf)
 
 <h4>🟤 Typography </h4>
 
@@ -270,7 +268,7 @@ It will be added soon 🔜
 1. [Web UI Trends Present & Future - Dramatic Typography](https://github.com/FatoomRe/Tech-Books/blob/030bf1de8ae65560a17bde34f4ec534b4f9c956c/UIUX%20Books/Typography/Web%20UI%20Trends%20Present%20%26%20Future%20-%20Dramatic%20Typography.pdf)
 
 <h4>🟣 Usability Testing </h4>
-It will be added soon 🔜
+will be added soon 🔜
 
 0. []()
 
@@ -279,13 +277,19 @@ It will be added soon 🔜
 2. []()
 
 <h4>🔵 Wireframes, Mockups, Prototypes </h4>
-It will be added soon 🔜
+will be added soon 🔜
 
-0. []()
+0. [Building UI Mockups Developers Won't Hate](https://github.com/FatoomRe/Tech-Books/blob/7cad44e1803121e14a429c8ff25f66843cec8165/UIUX%20Books/Wireframes%2C%20Mockups%2C%20Prototypes/Building%20UI%20Mockups%20Developers%20Won't%20Hate.pdf)
 
-1. []()
+1. [The Guide to Interactive Wireframing](https://github.com/FatoomRe/Tech-Books/blob/7cad44e1803121e14a429c8ff25f66843cec8165/UIUX%20Books/Wireframes%2C%20Mockups%2C%20Prototypes/The%20Guide%20to%20Interactive%20Wireframing.pdf)
 
-2. []()
+2. [The Guide to Mockups](https://github.com/FatoomRe/Tech-Books/blob/7cad44e1803121e14a429c8ff25f66843cec8165/UIUX%20Books/Wireframes%2C%20Mockups%2C%20Prototypes/The%20Guide%20to%20Mockups.pdf)
+
+3. [The Guide to Wireframing](https://github.com/FatoomRe/Tech-Books/blob/7cad44e1803121e14a429c8ff25f66843cec8165/UIUX%20Books/Wireframes%2C%20Mockups%2C%20Prototypes/The%20Guide%20to%20Wireframing.pdf)
+
+4. [The Practical Handbook To Rapid Lo-Fi Prototyping](https://github.com/FatoomRe/Tech-Books/blob/7cad44e1803121e14a429c8ff25f66843cec8165/UIUX%20Books/Wireframes%2C%20Mockups%2C%20Prototypes/The%20Practical%20Handbook%20To%20Rapid%20Lo-Fi%20Prototyping.pdf)
+
+5. [The Ultimate Guide to Prototyping](https://github.com/FatoomRe/Tech-Books/blob/7cad44e1803121e14a429c8ff25f66843cec8165/UIUX%20Books/Wireframes%2C%20Mockups%2C%20Prototypes/The%20Ultimate%20Guide%20to%20Prototyping.pdf)
 
 <h4>💠 Mobile Design </h4>
 
@@ -318,6 +322,8 @@ It will be added soon 🔜
 5. [Timeless UX Design Trends - Responsive Adaptive Web Design](https://github.com/FatoomRe/Tech-Books/blob/3bd5c95765a6c1987f7c473b9fa38ec959f240be/UIUX%20Books/Web%20Design/Timeless%20UX%20Design%20Trends%20-%20Responsive%20Adaptive%20Web%20Design.pdf)
 
 6. [Top 10 Web Design Trends of 2015](https://github.com/FatoomRe/Tech-Books/blob/3bd5c95765a6c1987f7c473b9fa38ec959f240be/UIUX%20Books/Web%20Design/Top%2010%20Web%20Design%20Trends%20of%202015.pdf)
+
+7. [Web Design Book of Trends 2013-2014](https://github.com/FatoomRe/Tech-Books/blob/7cad44e1803121e14a429c8ff25f66843cec8165/UIUX%20Books/Web%20Design%20Book%20of%20Trends%202013-2014%20(1).pdf)
 
 ## 4. Cybersecurity Books 🥷
 
