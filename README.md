@@ -261,6 +261,22 @@
 
 6. [Tablet Web Design Best Practices](https://github.com/FatoomRe/Tech-Books/blob/1cab8f928208e275c6d7077cb3eb84d811def311/UIUX%20Books/Mobile%20Design/Tablet%20Web%20Design%20Best%20Practices.pdf)
 
+<h4>🔵 Web Design </h4>
+
+0. [Flat Design Trends 2016 - A Practical Visual Guide](https://github.com/FatoomRe/Tech-Books/blob/3bd5c95765a6c1987f7c473b9fa38ec959f240be/UIUX%20Books/Web%20Design/Flat%20Design%20Trends%202016%20-%20A%20Practical%20Visual%20Guide.pdf)
+
+1. [Responsive Web Design Best Practices](https://github.com/FatoomRe/Tech-Books/blob/3bd5c95765a6c1987f7c473b9fa38ec959f240be/UIUX%20Books/Web%20Design/Responsive%20Web%20Design%20Best%20Practices.pdf)
+
+2. [The Best Web Designs of 2015-2016](https://github.com/FatoomRe/Tech-Books/blob/3bd5c95765a6c1987f7c473b9fa38ec959f240be/UIUX%20Books/Web%20Design/The%20Best%20Web%20Designs%20of%202015-2016.pdf)
+
+3. [The Enterprise Guide to Headless Commerce Front-ends](https://github.com/FatoomRe/Tech-Books/blob/3bd5c95765a6c1987f7c473b9fa38ec959f240be/UIUX%20Books/Web%20Design/The%20Enterprise%20Guide%20to%20Headless%20Commerce%20Front-ends.pdf)
+
+4. [The State Of Web Design - 2016 Edition](https://github.com/FatoomRe/Tech-Books/blob/3bd5c95765a6c1987f7c473b9fa38ec959f240be/UIUX%20Books/Web%20Design/The%20State%20Of%20Web%20Design%20-%202016%20Edition.pdf)
+
+5. [Timeless UX Design Trends - Responsive Adaptive Web Design](https://github.com/FatoomRe/Tech-Books/blob/3bd5c95765a6c1987f7c473b9fa38ec959f240be/UIUX%20Books/Web%20Design/Timeless%20UX%20Design%20Trends%20-%20Responsive%20Adaptive%20Web%20Design.pdf)
+
+6. [Top 10 Web Design Trends of 2015](https://github.com/FatoomRe/Tech-Books/blob/3bd5c95765a6c1987f7c473b9fa38ec959f240be/UIUX%20Books/Web%20Design/Top%2010%20Web%20Design%20Trends%20of%202015.pdf)
+
 ## 4. Cybersecurity Books 🥷
 
   0. [Cybersecurity For Dummies](https://github.com/FatoomRe/Computer_Science_Books/blob/0810bd5c9073b5eea2ff697eefe4a457b646aa57/Cybersecurity%20Books/Cybersecurity-for-dummies.pdf)
