@@ -277,7 +277,6 @@ will be added soon 🔜
 2. []()
 
 <h4>🔵 Wireframes, Mockups, Prototypes </h4>
-will be added soon 🔜
 
 0. [Building UI Mockups Developers Won't Hate](https://github.com/FatoomRe/Tech-Books/blob/7cad44e1803121e14a429c8ff25f66843cec8165/UIUX%20Books/Wireframes%2C%20Mockups%2C%20Prototypes/Building%20UI%20Mockups%20Developers%20Won't%20Hate.pdf)
 
