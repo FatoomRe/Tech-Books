@@ -235,6 +235,24 @@
 
 12. [UX Storytellers - Connecting the Dots](https://github.com/FatoomRe/Tech-Books/blob/2541eaf1734b914b47f20e44ee2e11c2522969c7/UIUX%20Books/Introductory/UX%20Storytellers%20-%20Connecting%20the%20Dots.pdf)
 
+<h4>🟠 User Interface </h4>
+It will be added soon 🔜
+
+0. []()
+
+1. []()
+
+2. []()
+
+<h4>🔴 User Experience </h4>
+It will be added soon 🔜
+
+0. []()
+
+1. []()
+
+2. []()
+
 <h4>🟡 Collaboration </h4>
 
 0. [Building Ui Mockups Developers Won't Hate](https://github.com/FatoomRe/Tech-Books/blob/5d5f87d1fbc434515dd9078c9d2dd758de35350b/UIUX%20Books/Collaboration/Building%20Ui%20Mockups%20Developers%20Wont%20Hate.pdf)
@@ -245,7 +263,31 @@
 
 3. [Designers Guide to Collaborating with Developers](https://github.com/FatoomRe/Tech-Books/blob/5d5f87d1fbc434515dd9078c9d2dd758de35350b/UIUX%20Books/Collaboration/Designers%20Guide%20to%20Collaborating%20with%20Devs.pdf)
 
-<h4>🟣 Mobile Design </h4>
+<h4>🟤 Typography </h4>
+
+0. [Mobile UI Trends Present & Future - Meaningful Mobile Typography](https://github.com/FatoomRe/Tech-Books/blob/030bf1de8ae65560a17bde34f4ec534b4f9c956c/UIUX%20Books/Typography/Mobile%20UI%20Trends%20Present%20%26%20Future%20-%20Meaningful%20Mobile%20Typography.pdf)
+
+1. [Web UI Trends Present & Future - Dramatic Typography](https://github.com/FatoomRe/Tech-Books/blob/030bf1de8ae65560a17bde34f4ec534b4f9c956c/UIUX%20Books/Typography/Web%20UI%20Trends%20Present%20%26%20Future%20-%20Dramatic%20Typography.pdf)
+
+<h4>🟣 Usability Testing </h4>
+It will be added soon 🔜
+
+0. []()
+
+1. []()
+
+2. []()
+
+<h4>🔵 Wireframes, Mockups, Prototypes </h4>
+It will be added soon 🔜
+
+0. []()
+
+1. []()
+
+2. []()
+
+<h4>💠 Mobile Design </h4>
 
 0. [Flat Mobile Design Evolved](https://github.com/FatoomRe/Tech-Books/blob/1cab8f928208e275c6d7077cb3eb84d811def311/UIUX%20Books/Mobile%20Design/Flat%20Mobile%20Design%20Evolved.pdf)
 
@@ -261,7 +303,7 @@
 
 6. [Tablet Web Design Best Practices](https://github.com/FatoomRe/Tech-Books/blob/1cab8f928208e275c6d7077cb3eb84d811def311/UIUX%20Books/Mobile%20Design/Tablet%20Web%20Design%20Best%20Practices.pdf)
 
-<h4>🔵 Web Design </h4>
+<h4>💠 Web Design </h4>
 
 0. [Flat Design Trends 2016 - A Practical Visual Guide](https://github.com/FatoomRe/Tech-Books/blob/3bd5c95765a6c1987f7c473b9fa38ec959f240be/UIUX%20Books/Web%20Design/Flat%20Design%20Trends%202016%20-%20A%20Practical%20Visual%20Guide.pdf)
 
