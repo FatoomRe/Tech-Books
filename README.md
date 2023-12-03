@@ -205,7 +205,7 @@
 
   2. [Xamarin in Action](https://github.com/FatoomRe/Tech-Books/blob/6e5a0e0c36933aafcd9948c201e73f74d90e29ad/Xamarin%20Books/Xamarin%20in%20Action.pdf)
 
-## 3. UI/UX Books 🎨 
+## 3. UX/UI Books 🎨 
 
 <h4>🟢 Introductory </h4>
 
