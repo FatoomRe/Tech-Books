@@ -268,13 +268,20 @@ will be added soon 🔜
 1. [Web UI Trends Present & Future - Dramatic Typography](https://github.com/FatoomRe/Tech-Books/blob/030bf1de8ae65560a17bde34f4ec534b4f9c956c/UIUX%20Books/Typography/Web%20UI%20Trends%20Present%20%26%20Future%20-%20Dramatic%20Typography.pdf)
 
 <h4>🟣 Usability Testing </h4>
-will be added soon 🔜
 
-0. []()
+0. [Complete Guide to User Testing](https://github.com/FatoomRe/Tech-Books/blob/9531c3c490ae28c221bd3f03f2d7b2c0d4cbc20f/UIUX%20Books/Usability%20Testing/Complete%20Guide%20to%20User%20Testing.pdf)
 
-1. []()
+1. [Lessons Learned from Watching 200000 User Testing Videos](https://github.com/FatoomRe/Tech-Books/blob/9531c3c490ae28c221bd3f03f2d7b2c0d4cbc20f/UIUX%20Books/Usability%20Testing/Lessons%20Learned%20from%20Watching%20200000%20User%20Testing%20Videos.pdf)
 
-2. []()
+2. [The Essential Guide to Integrating User Experience and Usability Testing in Agile](https://github.com/FatoomRe/Tech-Books/blob/9531c3c490ae28c221bd3f03f2d7b2c0d4cbc20f/UIUX%20Books/Usability%20Testing/The%20Essential%20Guide%20to%20Integrating%20User%20Experience%20and%20Usability%20Testing%20in%20Agile.pdf)
+
+3. [The Guide To Usability Testing](https://github.com/FatoomRe/Tech-Books/blob/9531c3c490ae28c221bd3f03f2d7b2c0d4cbc20f/UIUX%20Books/Usability%20Testing/The%20Guide%20To%20Usability%20Testing.pdf)
+
+4. [The Marketers Guide To User Testing](https://github.com/FatoomRe/Tech-Books/blob/9531c3c490ae28c221bd3f03f2d7b2c0d4cbc20f/UIUX%20Books/Usability%20Testing/The%20Marketers%20Guide%20To%20User%20Testing.pdf)
+
+5. [User Testing and Design - Improving Yelps Website](https://github.com/FatoomRe/Tech-Books/blob/9531c3c490ae28c221bd3f03f2d7b2c0d4cbc20f/UIUX%20Books/Usability%20Testing/User%20Testing%20and%20Design%20-%20Improving%20Yelps%20Website.pdf)
+
+6. [When Unmoderated Remote Usability Testing is the Best Choice](https://github.com/FatoomRe/Tech-Books/blob/9531c3c490ae28c221bd3f03f2d7b2c0d4cbc20f/UIUX%20Books/Usability%20Testing/When%20Unmoderated%20Remote%20Usability%20Testing%20is%20the%20Best%20Choice.pdf)
 
 <h4>🔵 Wireframes, Mockups, Prototypes </h4>
 
