@@ -236,13 +236,36 @@
 12. [UX Storytellers - Connecting the Dots](https://github.com/FatoomRe/Tech-Books/blob/2541eaf1734b914b47f20e44ee2e11c2522969c7/UIUX%20Books/Introductory/UX%20Storytellers%20-%20Connecting%20the%20Dots.pdf)
 
 <h4>🟠 User Interface </h4>
-will be added soon 🔜
 
-0. []()
+0. [Clever Interactive Techniques For Web Storytell](https://github.com/FatoomRe/Tech-Books/blob/987ca8083d791f7c9108c7011fcc76209ce869fe/UIUX%20Books/User%20Interface/Clever%20Interactive%20Techniques%20For%20Web%20Storytell.pdf)
 
-1. []()
+1. [Color Theory in Web UI Design](https://github.com/FatoomRe/Tech-Books/blob/987ca8083d791f7c9108c7011fcc76209ce869fe/UIUX%20Books/User%20Interface/Color%20Theory%20in%20Web%20UI%20Design.pdf)
 
-2. []()
+2. [Consistency UI Design Creativity Without Confusion](https://github.com/FatoomRe/Tech-Books/blob/987ca8083d791f7c9108c7011fcc76209ce869fe/UIUX%20Books/User%20Interface/Consistency%20UI%20Design%20Creativity%20Without%20Confusion.pdf)
+
+3. [Flat Design and Colors](https://github.com/FatoomRe/Tech-Books/blob/987ca8083d791f7c9108c7011fcc76209ce869fe/UIUX%20Books/User%20Interface/Flat%20Design%20and%20Colors.pdf)
+
+4. [The Building Blocks of Visual Hierarchy](https://github.com/FatoomRe/Tech-Books/blob/987ca8083d791f7c9108c7011fcc76209ce869fe/UIUX%20Books/User%20Interface/The%20Building%20Blocks%20of%20Visual%20Hierarchy.pdf)
+
+5. [The Visual Storytellers Guide to Web UI Design](https://github.com/FatoomRe/Tech-Books/blob/987ca8083d791f7c9108c7011fcc76209ce869fe/UIUX%20Books/User%20Interface/The%20Visual%20Storytellers%20Guide%20to%20Web%20UI%20Design.pdf)
+
+6. [Web UI Design for the Human Eye](https://github.com/FatoomRe/Tech-Books/blob/987ca8083d791f7c9108c7011fcc76209ce869fe/UIUX%20Books/User%20Interface/Web%20UI%20Design%20for%20the%20Human%20Eye.pdf)
+
+7. [Web UI Trends Present & Future - Card-Based Design Patterns.](https://github.com/FatoomRe/Tech-Books/blob/987ca8083d791f7c9108c7011fcc76209ce869fe/UIUX%20Books/User%20Interface/Web%20UI%20Trends%20Present%20%26%20Future%20-%20Card-Based%20Design%20Patterns.pdf)
+
+8. [Web UI Trends Present & Future - The Elegance of Minimalism](https://github.com/FatoomRe/Tech-Books/blob/987ca8083d791f7c9108c7011fcc76209ce869fe/UIUX%20Books/User%20Interface/Web%20UI%20Trends%20Present%20%26%20Future%20-%20The%20Elegance%20of%20Minimalism.pdf)
+
+9. [Web UI Trends Present & Future - The Evolution of Flat Design](https://github.com/FatoomRe/Tech-Books/blob/987ca8083d791f7c9108c7011fcc76209ce869fe/UIUX%20Books/User%20Interface/Web%20UI%20Trends%20Present%20%26%20Future%20-%20The%20Evolution%20of%20Flat%20Design.pdf)
+
+10. [Web UI Trends Present & Future - The Vibrancy of Color](https://github.com/FatoomRe/Tech-Books/blob/987ca8083d791f7c9108c7011fcc76209ce869fe/UIUX%20Books/User%20Interface/Web%20UI%20Trends%20Present%20%26%20Future%20-%20The%20Vibrancy%20of%20Color.pdf)
+
+11. [White Space in Web UI Design - Mastering the Power of Nothing](https://github.com/FatoomRe/Tech-Books/blob/987ca8083d791f7c9108c7011fcc76209ce869fe/UIUX%20Books/User%20Interface/White%20Space%20in%20Web%20UI%20Design%20-%20Mastering%20the%20Power%20of%20Nothing.pdf)
+
+12. [Winning Over Users With Attractive UI Design](https://github.com/FatoomRe/Tech-Books/blob/987ca8083d791f7c9108c7011fcc76209ce869fe/UIUX%20Books/User%20Interface/Winning%20Over%20Users%20With%20Attractive%20UI%20Design.pdf)
+
+13. [Zen of White Space in Web UI Design - Balance, Contrast, Hierarchy](https://github.com/FatoomRe/Tech-Books/blob/987ca8083d791f7c9108c7011fcc76209ce869fe/UIUX%20Books/User%20Interface/Zen%20of%20White%20Space%20in%20Web%20UI%20Design%20-%20Balance%2C%20Contrast%2C%20Hierarchy.pdf)
+
+14. [Zen of White Space in Web UI Design - Space, Ratios, Minimalism](https://github.com/FatoomRe/Tech-Books/blob/987ca8083d791f7c9108c7011fcc76209ce869fe/UIUX%20Books/User%20Interface/Zen%20of%20White%20Space%20in%20Web%20UI%20Design%20-%20Space%2C%20Ratios%2C%20Minimalism.pdf)
 
 <h4>🔴 User Experience </h4>
 will be added soon 🔜
