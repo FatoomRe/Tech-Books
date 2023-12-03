@@ -268,13 +268,34 @@
 14. [Zen of White Space in Web UI Design - Space, Ratios, Minimalism](https://github.com/FatoomRe/Tech-Books/blob/987ca8083d791f7c9108c7011fcc76209ce869fe/UIUX%20Books/User%20Interface/Zen%20of%20White%20Space%20in%20Web%20UI%20Design%20-%20Space%2C%20Ratios%2C%20Minimalism.pdf)
 
 <h4>🔴 User Experience </h4>
-will be added soon 🔜
 
-0. []()
+0. [10 Pro Tips to a Smarter UX Design Process](https://github.com/FatoomRe/Tech-Books/blob/60fad0f3596f16d3fbf4142161816491b265fda6/UIUX%20Books/User%20Experience/10%20Pro%20Tips%20to%20a%20Smarter%20UX%20Design%20Process.pdf)
 
-1. []()
+1. [3 Common UX Mistakes Killing Good Design](https://github.com/FatoomRe/Tech-Books/blob/60fad0f3596f16d3fbf4142161816491b265fda6/UIUX%20Books/User%20Experience/3%20Common%20UX%20Mistakes%20Killing%20Good%20Design.pdf)
 
-2. []()
+2. [Agile UX in the Enterprise - A Step-by-Step Survival Guide](https://github.com/FatoomRe/Tech-Books/blob/60fad0f3596f16d3fbf4142161816491b265fda6/UIUX%20Books/User%20Experience/Agile%20UX%20in%20the%20Enterprise%20-%20A%20Step-by-Step%20Survival%20Guide.pdf)
+
+3. [Designing Better UX with UI Patterns](https://github.com/FatoomRe/Tech-Books/blob/60fad0f3596f16d3fbf4142161816491b265fda6/UIUX%20Books/User%20Experience/Designing%20Better%20UX%20with%20UI%20Patterns.pdf)
+
+4. [Getting Started with UX Design Process & Documentation](https://github.com/FatoomRe/Tech-Books/blob/60fad0f3596f16d3fbf4142161816491b265fda6/UIUX%20Books/User%20Experience/Getting%20Started%20with%20UX%20Design%20Process%20%26%20Documentation.pdf)
+
+5. [Idiot Buttons - The Placebo in UX Design](https://github.com/FatoomRe/Tech-Books/blob/60fad0f3596f16d3fbf4142161816491b265fda6/UIUX%20Books/User%20Experience/Idiot%20Buttons%20-%20The%20Placebo%20in%20UX%20Design.pdf)
+
+6. [Mobile Commerce UX Design Best Practices](https://github.com/FatoomRe/Tech-Books/blob/60fad0f3596f16d3fbf4142161816491b265fda6/UIUX%20Books/User%20Experience/Mobile%20Commerce%20UX%20Design%20Best%20Practices.pdf)
+
+7. [The Basics of UX Design](https://github.com/FatoomRe/Tech-Books/blob/60fad0f3596f16d3fbf4142161816491b265fda6/UIUX%20Books/User%20Experience/The%20Basics%20of%20UX%20Design.pdf)
+
+8. [The Elements of Successful UX Design](https://github.com/FatoomRe/Tech-Books/blob/60fad0f3596f16d3fbf4142161816491b265fda6/UIUX%20Books/User%20Experience/The%20Elements%20of%20Successful%20UX%20Design.pdf)
+
+9. [The Field Guide to UX Strategy](https://github.com/FatoomRe/Tech-Books/blob/60fad0f3596f16d3fbf4142161816491b265fda6/UIUX%20Books/User%20Experience/The%20Field%20Guide%20to%20UX%20Strategy.pdf)
+
+10. [The Guide to UX Design Process and Documentation](https://github.com/FatoomRe/Tech-Books/blob/60fad0f3596f16d3fbf4142161816491b265fda6/UIUX%20Books/User%20Experience/The%20Guide%20to%20UX%20Design%20Process%20and%20Documentation.pdf)
+
+11. [Timeless UX Design Trends - Web UX Design](https://github.com/FatoomRe/Tech-Books/blob/60fad0f3596f16d3fbf4142161816491b265fda6/UIUX%20Books/User%20Experience/Timeless%20UX%20Design%20Trends%20-%20Web%20UX%20Design.pdf)
+
+12. [UX Design Process Best Practices](https://github.com/FatoomRe/Tech-Books/blob/60fad0f3596f16d3fbf4142161816491b265fda6/UIUX%20Books/User%20Experience/UX%20Design%20Process%20Best%20Practices.pdf)
+
+13. [UX Gamification Redefined](https://github.com/FatoomRe/Tech-Books/blob/60fad0f3596f16d3fbf4142161816491b265fda6/UIUX%20Books/User%20Experience/UX%20Gamification%20Redefined.pdf)
 
 <h4>🟡 Collaboration </h4>
 
