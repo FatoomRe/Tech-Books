@@ -25,6 +25,7 @@
 
   9. [Algorithms, 4th ed](https://github.com/FatoomRe/Tech-Books/blob/4385b913962110b5c0937dd7b5a09706014fde56/Random%20Books/Algorithms%2C%204th%20ed..pdf)
 
+
 <h4>Tech-Novels 📖</h4> 
 
 0. [Ghost in the Wires - My Adventures as the World's Most Wanted Hacker](https://github.com/FatoomRe/Tech-Books/blob/b5a0ceac639454bb35271cff429e9d920b5204a8/RandomBooks/Ghost%20in%20the%20Wires%20My%20Adventures%20as%20the%20Worlds%20Most%20Wanted%20Hacker%20%20issue.pdf)
@@ -234,6 +235,8 @@
 11. [UX Design for Startups](https://github.com/FatoomRe/Tech-Books/blob/2541eaf1734b914b47f20e44ee2e11c2522969c7/UIUX%20Books/Introductory/UX%20Design%20for%20Startups.pdf)
 
 12. [UX Storytellers - Connecting the Dots](https://github.com/FatoomRe/Tech-Books/blob/2541eaf1734b914b47f20e44ee2e11c2522969c7/UIUX%20Books/Introductory/UX%20Storytellers%20-%20Connecting%20the%20Dots.pdf)
+
+13. [Dont_make_me_think by Steve Krug](https://github.com/FatoomRe/Tech-Books/blob/a05475683b8aade35e9d14546d9cc4be5328a356/UIUX%20Books/Krug_Steve_Dont_make_me_think_revisited___a_cz-lib.org_.pdf)
 
 <h4>🟠 User Interface </h4>
 
