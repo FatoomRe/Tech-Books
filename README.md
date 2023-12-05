@@ -25,6 +25,8 @@
 
   9. [Algorithms, 4th ed](https://github.com/FatoomRe/Tech-Books/blob/4385b913962110b5c0937dd7b5a09706014fde56/Random%20Books/Algorithms%2C%204th%20ed..pdf)
 
+  10. [Think Like a Programmer](https://github.com/FatoomRe/Tech-Books/blob/ecfafd84a52ac11ac8f5cb86b306a83a87765b14/Random%20Books/Think%20Like%20a%20Programmer.pdf)
+
 
 <h4>Tech-Novels 📖</h4> 
 
