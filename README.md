@@ -42,6 +42,8 @@
 
 5. [Hackers Heroes of the computer revolution](https://github.com/FatoomRe/Tech-Books/blob/f4f3fd97b1307c14ec912f982f87e2eb9b57626c/Random%20Books/Hackers%20Heroes%20of%20the%20computer%20revolution.pdf)
 
+6. [Accelerate - Building and Scaling High Performing Technology Organisations](https://github.com/FatoomRe/Tech-Books/blob/52713be7703ec039980b2d04b45fecac9eaa9ed4/Random%20Books/Accelerate%20-%20Building%20and%20Scaling%20High%20Performing%20Technology%20Organisations%20-%20Nicole%20Fergrson.pdf)
+
 
 
 ## 1. Web Development Books 🌐
