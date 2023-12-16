@@ -27,6 +27,8 @@
 
   10. [Think Like a Programmer](https://github.com/FatoomRe/Tech-Books/blob/ecfafd84a52ac11ac8f5cb86b306a83a87765b14/Random%20Books/Think%20Like%20a%20Programmer.pdf)
 
+  11. [Learn to Code by Solving Problems](https://github.com/FatoomRe/Tech-Books/blob/a037b42f4afecc39ab1db02030b57afd6235f95e/Random%20Books/Learn%20to%20Code%20by%20Solving%20Problems.pdf)
+
 
 <h4>Tech-Novels 📖</h4> 
 
