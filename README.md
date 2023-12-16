@@ -29,6 +29,8 @@
 
   11. [Learn to Code by Solving Problems](https://github.com/FatoomRe/Tech-Books/blob/a037b42f4afecc39ab1db02030b57afd6235f95e/Random%20Books/Learn%20to%20Code%20by%20Solving%20Problems.pdf)
 
+  12. [Algorithmic.Thinking.Daniel.Zingaro](https://github.com/FatoomRe/Tech-Books/blob/efbb4446c8dce8d1cf181422a6efcf6927b12ca9/Random%20Books/Algorithmic.Thinking.Daniel.Zingaro.pdf)
+
 
 <h4>Tech-Novels 📖</h4> 
 
