@@ -31,6 +31,8 @@
 
   12. [Algorithmic.Thinking.Daniel.Zingaro](https://github.com/FatoomRe/Tech-Books/blob/efbb4446c8dce8d1cf181422a6efcf6927b12ca9/Random%20Books/Algorithmic.Thinking.Daniel.Zingaro.pdf)
 
+  13. [The secret life of programs](https://github.com/FatoomRe/Tech-Books/blob/b06ad9794575790401a555662c6e2396e2606dba/Random%20Books/The%20secret%20life%20of%20programs.pdf)
+
 
 <h4>Tech-Novels 📖</h4> 
 
