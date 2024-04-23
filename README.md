@@ -462,6 +462,8 @@
 
   7. [A Guide To Robotics & Automation](https://github.com/FatoomRe/Computer_Science_Books/blob/6993c9e680423f9e00d30c3bdd4620f3cbf36384/Robotics%20Books/robotics-guide-en.pdf)
 
+  8. [Introduction to autonomous mobile robots](https://github.com/FatoomRe/Tech-Books/blob/a991155b6b7cd5ed9b85972f36ac576cd9626d1a/Robotics%20Books/Introduction%20to%20Autonomous%20Mobile%20Robots%20book.pdf)
+
 
 
  ## 7. Arduino Books 📟
